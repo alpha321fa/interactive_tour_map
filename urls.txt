@@ -1,0 +1,100 @@
+# Lines starting with # are comments/region labels, ignored by the scraper except for logging.
+# Sourced from tourhub-seed-urls.md at the project root.
+
+# Nepal
+https://tourhub.co/tour/intrepid-travel/everest-base-camp-trek/hnxe
+https://tourhub.co/tour/sherpa-expedition-and-trekking/everest-base-camp-trek-13-days/18
+https://tourhub.co/tour/g-adventures/everest-base-camp-trek/22946
+https://tourhub.co/tour/himalaya-heart-treks-and-expedition-pvt-ltd/everest-base-camp-trek-2025-2026/21-4-2025
+https://tourhub.co/tour/sherpa-expedition-and-trekking/everest-base-camp-trek-10-days/eve
+
+# Morocco
+https://tourhub.co/tour/encounters-travel/morocco-desert-safari-tour/196
+https://tourhub.co/tour/travel-talk-tours/adventure-morocco-4-star-hotels/m2
+
+# Peru
+https://tourhub.co/tour/collette/peru-machu-picchu-and-lake-titicaca/15499
+https://tourhub.co/tour/insight-vacations/peru-with-machu-picchu/zperm20
+https://tourhub.co/tour/insight-vacations/peru-with-machu-picchu-small-group/szperm20
+https://tourhub.co/tour/insight-vacations/peru-with-machu-picchu-small-group/szpern19
+https://tourhub.co/tour/insight-vacations/peru-with-machu-picchu/zperzn19
+https://tourhub.co/tour/insight-vacations/peru-with-machu-picchu-and-the-nazca-lines-small-group/szperpn20
+https://tourhub.co/tour/wild-frontiers/peru-across-the-andes-to-machu-picchu-short-inca-trail/map
+https://tourhub.co/tour/insight-vacations/peru-with-machu-picchu-and-the-nazca-lines-classic-group/zperpm19
+https://tourhub.co/tour/exodus/peru-machu-picchu-discovery/app
+
+# Vietnam / Cambodia / Thailand
+https://tourhub.co/tour/travel-talk-tours/amazing-vietnam-and-cambodia-and-thailand-ends-chiang-mai-4-star-hotels/vct1
+https://tourhub.co/tour/tauck/vietnam-cambodia-and-thailand/ic2022
+https://tourhub.co/tour/travel-talk-tours/ultimate-vietnam-and-cambodia-and-thailand-ends-bangkok-4-star-hotels/vct4
+https://tourhub.co/tour/newmarket-holidays/follow-the-mekong-thailand-cambodia-and-vietnam-for-solo-travellers/thd99536
+https://tourhub.co/tour/realistic-asia/vietnam-cambodia-and-thailand-16-days/ra-01
+https://tourhub.co/tour/prestigo-asia/treasures-of-indochina-15-days-vietnam-thailand-cambodia-laos/pa-mc002
+https://tourhub.co/tour/travel-talk-tours/amazing-vietnam-cambodia-and-thailand/vc2
+https://tourhub.co/tour/travel-talk-tours/amazing-vietnam-and-cambodia-and-thailand-ends-bangkok-4-star-hotels/vct2
+https://tourhub.co/tour/newmarket-holidays/follow-the-mekong-thailand-cambodia-and-vietnam/18346
+https://tourhub.co/tour/explore!/family-vietnam-cambodia-and-thailand-journey/fqbk
+
+# Egypt / Jordan
+https://tourhub.co/tour/ciconia-travel/highlights-of-egypt-and-jordan/ejh
+https://tourhub.co/tour/collette/journey-through-egypt-and-jordan/16221
+https://tourhub.co/tour/encounters-travel/jordan-and-egypt-express/180
+https://tourhub.co/tour/intrepid-travel/jordan-and-egypt-express/eerj
+https://tourhub.co/tour/intrepid-travel/explore-egypt-and-jordan/xekjc
+https://tourhub.co/tour/consolidated-tour-operators/highlights-of-israel-jordan-and-egypt/43
+https://tourhub.co/tour/intrepid-travel/epic-egypt-jordan-israel-and-the-palestinian-territories/xeycc
+https://tourhub.co/tour/exodus-adventure-travels/jordan-to-egypt-nabateans-and-pharaohs/ajd
+
+# Japan
+https://tourhub.co/tour/explore!/simply-japan/qjs
+https://tourhub.co/tour/expat-explore-travel/highlights-of-japan/je
+https://tourhub.co/tour/trafalgar/splendors-of-japan/jpnlzn19
+https://tourhub.co/tour/yellowwood-adventures/walking-through-the-traditions-and-history-of-japan/jap-ja
+https://tourhub.co/tour/trafalgar/classic-japan/jpcln26
+https://tourhub.co/tour/travel-talk-tours/ultimate-japan-2025/jpu
+https://tourhub.co/tour/expat-explore-travel/highlights-of-japan-2025-and-2026-departures/je25
+
+# Iceland
+https://tourhub.co/tour/riviera-travel/iceland/ic
+https://tourhub.co/tour/marina-travel/5d4n-iceland-|-reykjavik-and-golden-circle/625831
+https://tourhub.co/tour/titan-travel/breathtaking-iceland-seeking-the-northern-lights/tticf
+https://tourhub.co/tour/insight-vacations/natural-wonders-of-iceland-small-group/se964zn20
+https://tourhub.co/tour/insight-vacations/scenic-iceland-and-the-northern-lights/w864m26
+https://tourhub.co/tour/trafalgar/iceland-highlights/icblm26
+https://tourhub.co/tour/g-adventures/best-of-iceland/22578
+
+# Tanzania
+https://tourhub.co/tour/g-adventures/tanzania-chimp-trekking-and-serengeti-safari/26018
+https://tourhub.co/tour/african-diurnal-safaris/4-days-tanzania-unique-journey/002
+https://tourhub.co/tour/exodus-safaris/budget-tanzania-safari-to-serengeti-and-beyond-wildlife-lodge/7191
+https://tourhub.co/tour/widerange-african-safaris/7days-tanzania-serengeti-migration/7
+https://tourhub.co/tour/g-adventures/tanzania-family-journey-a-serengeti-safari/25166
+https://tourhub.co/tour/tanzania-vacation-operation/3-days-tanzania-luxury-safari-in-serengeti-and-ngorongoro/tvo-004
+https://tourhub.co/tour/widerange-african-safaris/tanzania-serengeti-migration-safari-in-5-days/5
+
+# United Kingdom (some billed as "Britain & Ireland" — includes Irish stops)
+https://tourhub.co/tour/cosmos/england-scotland-and-wales/9000-2023
+https://tourhub.co/tour/collette/exploring-britain-and-ireland-featuring-england-ireland-scotland-and-wales/16048
+https://tourhub.co/tour/collette/british-landscapes-featuring-england-scotland-and-wales/16137
+https://tourhub.co/tour/collette/british-landscapes-featuring-england-scotland-and-wales/15305
+https://tourhub.co/tour/europamundo/england-scotland-and-ireland/2602584
+https://tourhub.co/tour/collette-inc/exploring-britain-and-ireland-featuring-england-ireland-scotland-and-wales/14217
+https://tourhub.co/tour/collette/exploring-britain-and-ireland-featuring-england-ireland-scotland-and-wales/14815
+https://tourhub.co/tour/indus-travels/treasures-of-england-scotland-and-ireland/indtur1158
+https://tourhub.co/tour/collette/exploring-britain-and-ireland-featuring-england-ireland-scotland-and-wales/15343
+https://tourhub.co/tour/luxury-gold/castles-and-kingdoms/cg259mn19
+https://tourhub.co/tour/luxury-gold/british-royale-end-london/g902ln119
+https://tourhub.co/tour/globus/extraordinary-england-and-scotland/de-2025
+https://tourhub.co/tour/costsaver/britain-and-ireland-experience/biexn26
+https://tourhub.co/tour/insight-vacations/elegance-of-great-britain-start-edinburgh-small-group/sb917an26
+https://tourhub.co/tour/rods-tours/england-scotland-and-wales-preview/9000-2027-preview
+https://tourhub.co/tour/luxury-gold/castles-and-kingdoms/g259mm26
+https://tourhub.co/tour/insight-vacations/romantic-britain-and-ireland/b908n27
+https://tourhub.co/tour/insight-vacations/romantic-britain-and-ireland-small-group/sb908n26
+https://tourhub.co/tour/riviera-travel/scottish-highlands-and-skye/uksc5
+https://tourhub.co/tour/geocultura-ltd/7-day-luxury-scotland-vacation-highlands-and-isle-of-skye/t036
+https://tourhub.co/tour/click-tours/isle-of-skye-and-west-highlands-small-group-tour-4-days/1
+https://tourhub.co/tour/geocultura/7-day-scotland-vacation-highlands-and-isle-of-skye/t036
+https://tourhub.co/tour/shearings/magical-skye-and-the-scottish-highlands/uk8stf23
+https://tourhub.co/tour/on-the-go-tours/scottish-highlands-from-edinburgh-5-days/2858-schfe
+https://tourhub.co/tour/highland-experience-tours/3-day-skye-and-inverness/273731

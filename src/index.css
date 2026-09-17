@@ -1,0 +1,256 @@
+:root {
+  --color-ink: #1f2a24;
+  --color-panel-bg: #fbfaf6;
+  --color-accent: #e0703f;
+  --color-teal: #2f6f6f;
+  --color-border: #e4e0d4;
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  color: var(--color-ink);
+}
+
+.app-layout {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.tourhub-map {
+  width: 100%;
+  height: 100%;
+  background: #aad3df;
+}
+
+/* --- Pins --- */
+
+.tourhub-pin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tourhub-pin--overview .tourhub-pin__dot {
+  display: block;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--color-accent);
+  border: 2px solid #fff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.35);
+}
+
+.tourhub-pin--day .tourhub-pin__badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: var(--color-teal);
+  color: #fff;
+  font-size: 12px;
+  font-weight: 600;
+  border: 2px solid #fff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.35);
+}
+
+.tourhub-pin--start .tourhub-pin__badge {
+  background: #3a8f5b;
+}
+
+.tourhub-pin--end .tourhub-pin__badge {
+  background: var(--color-accent);
+}
+
+.tourhub-pin--wide .tourhub-pin__badge {
+  width: auto;
+  min-width: 26px;
+  height: 22px;
+  border-radius: 11px;
+  padding: 0 7px;
+  font-size: 11px;
+  white-space: nowrap;
+}
+
+.marker-cluster {
+  background: rgba(47, 111, 111, 0.25);
+}
+
+.marker-cluster div {
+  background: rgba(47, 111, 111, 0.85);
+  color: #fff;
+  font-weight: 600;
+}
+
+/* --- Side panel --- */
+
+.side-panel {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: min(420px, 100vw);
+  height: 100%;
+  background: var(--color-panel-bg);
+  border-left: 1px solid var(--color-border);
+  box-shadow: -8px 0 24px rgba(0, 0, 0, 0.12);
+  overflow-y: auto;
+  padding: 20px 24px 32px;
+  z-index: 1000;
+}
+
+.side-panel__close {
+  background: none;
+  border: none;
+  color: var(--color-teal);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0;
+  margin-bottom: 16px;
+}
+
+.side-panel__title {
+  font-size: 22px;
+  line-height: 1.25;
+  margin: 0 0 8px;
+}
+
+.side-panel__meta {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  font-size: 13px;
+  color: #6b6459;
+  margin-bottom: 16px;
+}
+
+.side-panel__vibe {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #3d372e;
+  margin-bottom: 24px;
+}
+
+.side-panel__days {
+  list-style: none;
+  margin: 0 0 24px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.side-panel__day {
+  border-top: 1px solid var(--color-border);
+  padding-top: 12px;
+}
+
+.side-panel__day-heading {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+
+.side-panel__day-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--color-teal);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 600;
+  flex-shrink: 0;
+}
+
+.side-panel__day-title {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.side-panel__day-description {
+  font-size: 13px;
+  line-height: 1.5;
+  color: #4a4438;
+  margin: 0;
+}
+
+.side-panel__source {
+  font-size: 13px;
+  color: var(--color-teal);
+}
+
+/* --- Floating controls --- */
+
+.surprise-me {
+  position: absolute;
+  bottom: 24px;
+  left: 24px;
+  z-index: 900;
+  background: #fff;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  padding: 10px 18px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+}
+
+.surprise-me:hover {
+  background: #fff8f2;
+}
+
+.home-button {
+  position: absolute;
+  top: 90px;
+  left: 10px;
+  z-index: 900;
+  background: #fff;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  padding: 8px 14px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+}
+
+.home-button:hover {
+  background: #fff8f2;
+}
+
+.status-banner {
+  position: absolute;
+  top: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 900;
+  background: #fff;
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-size: 13px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+}
+
+.status-banner--error {
+  background: #fbe4e0;
+  color: #8a2e1a;
+}

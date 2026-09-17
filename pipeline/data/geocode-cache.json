@@ -1,0 +1,2960 @@
+{
+  "kathmandu|np": {
+    "lat": 27.708317,
+    "lng": 85.3205817,
+    "displayName": "Kathmandu Metropolitan City, Kathmandu, Bagamati Province, Nepal",
+    "country": "Nepal"
+  },
+  "phakding|np": {
+    "lat": 27.740133,
+    "lng": 86.712692,
+    "displayName": "Phakding, Khumbupasanglahmu, Solukhumbu, Koshi Province, Nepal",
+    "country": "Nepal"
+  },
+  "namche bazaar|np": {
+    "lat": 27.8041662,
+    "lng": 86.7097956,
+    "displayName": "Namche Bazaar, Khumbupasanglahmu, Solukhumbu, Koshi Province, 56002, Nepal",
+    "country": "Nepal"
+  },
+  "phortse|np": {
+    "lat": 27.8463454,
+    "lng": 86.7493322,
+    "displayName": "Phortse, Khumbupasanglahmu, Solukhumbu, Koshi Province, 56002, Nepal",
+    "country": "Nepal"
+  },
+  "dingboche|np": {
+    "lat": 27.8935203,
+    "lng": 86.8309364,
+    "displayName": "Dingboche, Khumbupasanglahmu-04, Khumbupasanglahmu, Solukhumbu, Koshi Province, Nepal",
+    "country": "Nepal"
+  },
+  "lobuche|np": {
+    "lat": 27.9480989,
+    "lng": 86.8101734,
+    "displayName": "Lobuche, Khumbupasanglahmu-04, Khumbupasanglahmu, Solukhumbu, Koshi Province, Nepal",
+    "country": "Nepal"
+  },
+  "tengboche|np": {
+    "lat": 27.8358088,
+    "lng": 86.7646093,
+    "displayName": "Tengboche, Khumbupasanglahmu, Solukhumbu, Koshi Province, 56002, Nepal",
+    "country": "Nepal"
+  },
+  "monjo|np": {
+    "lat": 27.7719229,
+    "lng": 86.7229961,
+    "displayName": "Monjo, Khumbupasanglahmu, Solukhumbu, Koshi Province, 56000, Nepal",
+    "country": "Nepal"
+  },
+  "lukla|np": {
+    "lat": 27.6889719,
+    "lng": 86.7306718,
+    "displayName": "Lukla, Khumbupasanglahmu, Solukhumbu, Koshi Province, Nepal",
+    "country": "Nepal"
+  },
+  "gorak shep|np": {
+    "lat": 27.980675,
+    "lng": 86.828926,
+    "displayName": "Gorak Shep, Khumbupasanglahmu-04, Khumbupasanglahmu, Solukhumbu, Koshi Province, Nepal",
+    "country": "Nepal"
+  },
+  "pheriche|np": {
+    "lat": 27.8933858,
+    "lng": 86.819991,
+    "displayName": "Pheriche, Khumbupasanglahmu-04, Khumbupasanglahmu, Solukhumbu, Koshi Province, Nepal",
+    "country": "Nepal"
+  },
+  "international airport|np": {
+    "lat": 27.6938887,
+    "lng": 85.3582259,
+    "displayName": "Tribhuvan International Airport, Siddhi Binayak Marga, Sinamangal, Kathmandu-09, Kathmandu Metropolitan City, Kathmandu, Bagamati Province, 44703, Nepal",
+    "country": "Nepal"
+  },
+  "namche bazar|np": {
+    "lat": 27.8041662,
+    "lng": 86.7097956,
+    "displayName": "Namche Bazaar, Khumbupasanglahmu, Solukhumbu, Koshi Province, 56002, Nepal",
+    "country": "Nepal"
+  },
+  "acclimatization|np": {
+    "lat": 27.6666052,
+    "lng": 87.9331143,
+    "displayName": "Ghunsa Acclimatization, Ghunsa, Phaktanglung-06, Phaktanglung, Taplejung, Koshi Province, Nepal",
+    "country": "Nepal"
+  },
+  "deboche|np": {
+    "lat": 27.8397093,
+    "lng": 86.7704098,
+    "displayName": "Deboche, Khumbupasanglahmu, Solukhumbu, Koshi Province, Nepal",
+    "country": "Nepal"
+  },
+  "ramechhap|np": {
+    "lat": 27.53695,
+    "lng": 86.2567909,
+    "displayName": "Ramechhap, Bagamati Province, 45400, Nepal",
+    "country": "Nepal"
+  },
+  "marrakech|ma": {
+    "lat": 31.6258257,
+    "lng": -7.9891608,
+    "displayName": "Marrakesh, Pachalik de Marrakech, Marrakesh Prefecture, Marrakech-Safi, Morocco",
+    "country": "Morocco"
+  },
+  "todra gorge|ma": {
+    "lat": 31.5873522,
+    "lng": -5.5914946,
+    "displayName": "Todgha Gorge, Toudgha El Oulia, caïdat de Toudgha, Cercle de Tinghir دائرة تنغير, Tinghir Province, Drâa-Tafilalet, Morocco",
+    "country": "Morocco"
+  },
+  "ait ben haddou|ma": {
+    "lat": 31.0451536,
+    "lng": -7.1309706,
+    "displayName": "Aït Benhaddou, Ait Zineb, caïdat de Amerzgane, Cercle d'Amerzgane دائرة أمرزكان, Ouarzazate Province, Drâa-Tafilalet, 45100, Morocco",
+    "country": "Morocco"
+  },
+  "ouarzazate|ma": {
+    "lat": 30.920193,
+    "lng": -6.910923,
+    "displayName": "Ouarzazate, Pachalik d'Ouarzazate باشوية ورزازات, Ouarzazate Province, Drâa-Tafilalet, Morocco",
+    "country": "Morocco"
+  },
+  "zagora|ma": {
+    "lat": 30.3279053,
+    "lng": -5.8369957,
+    "displayName": "Zagora, Pachalik de Zagora باشوية زاكورة, Zagora Province, Drâa-Tafilalet, 49500, Morocco",
+    "country": "Morocco"
+  },
+  "agadir|ma": {
+    "lat": 30.4205162,
+    "lng": -9.5838532,
+    "displayName": "Agadir, Pachalik d'Agadir ⵍⴱⴰⵛⴰⵡⵉⵢⴰ ⵏ ⴰⴳⴰⴷⵉⵔ باشوية أكادير, Agadir Ida-Outanane Prefecture, Souss-Massa, Morocco",
+    "country": "Morocco"
+  },
+  "essaouira|ma": {
+    "lat": 31.5118281,
+    "lng": -9.7620903,
+    "displayName": "Essaouira, Pachalik d'Essaouira باشوية الصويرة, Essaouira Province, Marrakech-Safi, Morocco",
+    "country": "Morocco"
+  },
+  "peru|pe": {
+    "lat": -6.8699697,
+    "lng": -75.0458515,
+    "displayName": "Peru",
+    "country": "Peru"
+  },
+  "lima|pe": {
+    "lat": -12.0459808,
+    "lng": -77.0305912,
+    "displayName": "Lima, Province of Lima, Lima Metropolitan Area, Lima, 15001, Peru",
+    "country": "Peru"
+  },
+  "sacred valley|pe": {
+    "lat": -13.3593912,
+    "lng": -72.0152012,
+    "displayName": "Sacred Valley of the Incas, Cusco, Peru",
+    "country": "Peru"
+  },
+  "machu picchu|pe": {
+    "lat": -13.164341,
+    "lng": -72.5450094,
+    "displayName": "Machu Picchu, Circuit 1, San Miguel, Intihuatana, Machupicchu, Province of Urubamba, Cusco, 08680, Peru",
+    "country": "Peru"
+  },
+  "cuzco|pe": {
+    "lat": -13.5169541,
+    "lng": -71.9792712,
+    "displayName": "City of Cuzco, Cuzco, Distrito de Cusco, Province of Cusco, Cusco, Peru",
+    "country": "Peru"
+  },
+  "puno|pe": {
+    "lat": -15,
+    "lng": -70,
+    "displayName": "Puno, Peru",
+    "country": "Peru"
+  },
+  "cusco|pe": {
+    "lat": -13.5170887,
+    "lng": -71.9785356,
+    "displayName": "Cuzco, Distrito de Cusco, Province of Cusco, Cusco, 08001, Peru",
+    "country": "Peru"
+  },
+  "coast|pe": {
+    "lat": -4.0808148,
+    "lng": -81.0369977,
+    "displayName": "Marina Coast Peru, District of Canoas de Punta Sal, Province of Contralmirante Villar, Tumbes, 20851, Peru",
+    "country": "Peru"
+  },
+  "arequipa|pe": {
+    "lat": -16.3988667,
+    "lng": -71.5369607,
+    "displayName": "Arequipa, Province of Arequipa, Arequipa, 04001, Peru",
+    "country": "Peru"
+  },
+  "colca canyon|pe": {
+    "lat": -15.5945964,
+    "lng": -72.048777,
+    "displayName": "Colca Canyon, Cabanaconde, Province of Caylloma, Arequipa, 04665, Peru",
+    "country": "Peru"
+  },
+  "sicuani|pe": {
+    "lat": -14.2729288,
+    "lng": -71.2265322,
+    "displayName": "Sicuani, Province of Canchis, Cusco, 08254, Peru",
+    "country": "Peru"
+  },
+  "lima's|pe": {
+    "lat": -11.914046,
+    "lng": -76.9515033,
+    "displayName": "Lima, Jicamarca - Anexo 22, San Juan de Lurigancho, Province of Lima, Lima Metropolitan Area, Lima, Peru",
+    "country": "Peru"
+  },
+  "aguas calientes|pe": {
+    "lat": -13.1542838,
+    "lng": -72.5256464,
+    "displayName": "Machupicchu Town, Machupicchu, Province of Urubamba, Cusco, 08681, Peru",
+    "country": "Peru"
+  },
+  "ho chi minh city|kh,th,vn": {
+    "lat": 10.7737261,
+    "lng": 106.7166008,
+    "displayName": "Ho Chi Minh City, Vietnam",
+    "country": "Vietnam"
+  },
+  "can tho|kh,th,vn": {
+    "lat": 10.0362046,
+    "lng": 105.7872656,
+    "displayName": "Cần Thơ, Vietnam",
+    "country": "Vietnam"
+  },
+  "chau doc|kh,th,vn": {
+    "lat": 10.6878576,
+    "lng": 105.096672,
+    "displayName": "Châu Đốc, An Giang Province, Vietnam",
+    "country": "Vietnam"
+  },
+  "phnom penh|kh,th,vn": {
+    "lat": 11.5730391,
+    "lng": 104.857807,
+    "displayName": "Phnom Penh, Cambodia",
+    "country": "Cambodia"
+  },
+  "battambang|kh,th,vn": {
+    "lat": 12.9256791,
+    "lng": 103.2317136,
+    "displayName": "Battambang, Cambodia",
+    "country": "Cambodia"
+  },
+  "siem reap|kh,th,vn": {
+    "lat": 13.3617562,
+    "lng": 103.8590321,
+    "displayName": "Siem Reap, 123456, Cambodia",
+    "country": "Cambodia"
+  },
+  "angkor wat|kh,th,vn": {
+    "lat": 13.412521,
+    "lng": 103.8665896,
+    "displayName": "Angkor Wat, Temporary access, Siem Reap, 171253, Cambodia",
+    "country": "Cambodia"
+  },
+  "bangkok|kh,th,vn": {
+    "lat": 13.7524938,
+    "lng": 100.4935089,
+    "displayName": "Bangkok, Thailand",
+    "country": "Thailand"
+  },
+  "ayutthaya|kh,th,vn": {
+    "lat": 14.3189468,
+    "lng": 100.5111681,
+    "displayName": "Phra Nakhon Si Ayutthaya Province, Thailand",
+    "country": "Thailand"
+  },
+  "phitsanulok|kh,th,vn": {
+    "lat": 16.9779975,
+    "lng": 100.3848239,
+    "displayName": "Phitsanulok Province, Thailand",
+    "country": "Thailand"
+  },
+  "chiang rai|kh,th,vn": {
+    "lat": 19.7589517,
+    "lng": 99.6734592,
+    "displayName": "Chiang Rai Province, Thailand",
+    "country": "Thailand"
+  },
+  "chiang mai|kh,th,vn": {
+    "lat": 18.7882778,
+    "lng": 98.9858802,
+    "displayName": "Chiang Mai City Municipality, Fa Ham, Mueang Chiang Mai District, Chiang Mai Province, Thailand",
+    "country": "Thailand"
+  },
+  "hanoi|kh,la,th,vn": {
+    "lat": 21.0283334,
+    "lng": 105.854041,
+    "displayName": "Hà Nội, Vietnam",
+    "country": "Vietnam"
+  },
+  "vietnam|kh,la,th,vn": {
+    "lat": 15.9266657,
+    "lng": 107.9650855,
+    "displayName": "Vietnam",
+    "country": "Vietnam"
+  },
+  "da nang|kh,la,th,vn": {
+    "lat": 16.068501,
+    "lng": 108.2240242,
+    "displayName": "Đà Nẵng, Vietnam",
+    "country": "Vietnam"
+  },
+  "hoi an|kh,la,th,vn": {
+    "lat": 15.8795863,
+    "lng": 108.3319406,
+    "displayName": "Hoi An, Đà Nẵng, 64000, Vietnam",
+    "country": "Vietnam"
+  },
+  "ho chi minh city|kh,la,th,vn": {
+    "lat": 10.7737261,
+    "lng": 106.7166008,
+    "displayName": "Ho Chi Minh City, Vietnam",
+    "country": "Vietnam"
+  },
+  "angkor|kh,la,th,vn": {
+    "lat": 11.5717457,
+    "lng": 104.928468,
+    "displayName": "Angkor (Street 5), Sangkat Phsar Kandal Ti Muoy, Khan Daun Penh, Phnom Penh, 120205, Cambodia",
+    "country": "Cambodia"
+  },
+  "doi suthep|kh,la,th,vn": {
+    "lat": 18.8166077,
+    "lng": 98.89236,
+    "displayName": "Doi Suthep, Suthep Town Municipality, San Phisuea, Mueang Chiang Mai District, Chiang Mai Province, Thailand",
+    "country": "Thailand"
+  },
+  "hanoi|kh,th,vn": {
+    "lat": 21.0283334,
+    "lng": 105.854041,
+    "displayName": "Hà Nội, Vietnam",
+    "country": "Vietnam"
+  },
+  "hoi an|kh,th,vn": {
+    "lat": 15.8795863,
+    "lng": 108.3319406,
+    "displayName": "Hoi An, Đà Nẵng, 64000, Vietnam",
+    "country": "Vietnam"
+  },
+  "hue|kh,th,vn": {
+    "lat": 16.4639321,
+    "lng": 107.5863388,
+    "displayName": "Huế, Vietnam",
+    "country": "Vietnam"
+  },
+  "saigon|kh,th,vn": {
+    "lat": 10.7737261,
+    "lng": 106.7166008,
+    "displayName": "Ho Chi Minh City, Vietnam",
+    "country": "Vietnam"
+  },
+  "ho chi minh|kh,th,vn": {
+    "lat": 10.7737261,
+    "lng": 106.7166008,
+    "displayName": "Ho Chi Minh City, Vietnam",
+    "country": "Vietnam"
+  },
+  "b/l|kh,la,th,vn": {
+    "lat": 13.743868,
+    "lng": 100.5348466,
+    "displayName": "Block L, Siam Square, Pathum Wan Subdistrict, Pathum Wan District, Bangkok, 10330, Thailand",
+    "country": "Thailand"
+  },
+  "hoi an town|kh,la,th,vn": {
+    "lat": 10.4319196,
+    "lng": 105.5504686,
+    "displayName": "Hội An, Xã Hội An, An Giang Province, 90221, Vietnam",
+    "country": "Vietnam"
+  },
+  "ho chi minh|kh,la,th,vn": {
+    "lat": 10.7737261,
+    "lng": 106.7166008,
+    "displayName": "Ho Chi Minh City, Vietnam",
+    "country": "Vietnam"
+  },
+  "cambodia|kh,la,th,vn": {
+    "lat": 12.5433216,
+    "lng": 104.8144914,
+    "displayName": "Cambodia",
+    "country": "Cambodia"
+  },
+  "tonle sap lake|kh,la,th,vn": {
+    "lat": 12.8860844,
+    "lng": 104.0200447,
+    "displayName": "Tonle Sap Lake, Pursat, Cambodia",
+    "country": "Cambodia"
+  },
+  "phuket|kh,la,th,vn": {
+    "lat": 7.9366015,
+    "lng": 98.3529292,
+    "displayName": "Phuket Province, Thailand",
+    "country": "Thailand"
+  },
+  "hue|kh,la,th,vn": {
+    "lat": 16.4639321,
+    "lng": 107.5863388,
+    "displayName": "Huế, Vietnam",
+    "country": "Vietnam"
+  },
+  "saigon|kh,la,th,vn": {
+    "lat": 10.7737261,
+    "lng": 106.7166008,
+    "displayName": "Ho Chi Minh City, Vietnam",
+    "country": "Vietnam"
+  },
+  "can tho|kh,la,th,vn": {
+    "lat": 10.0362046,
+    "lng": 105.7872656,
+    "displayName": "Cần Thơ, Vietnam",
+    "country": "Vietnam"
+  },
+  "chau doc|kh,la,th,vn": {
+    "lat": 10.6878576,
+    "lng": 105.096672,
+    "displayName": "Châu Đốc, An Giang Province, Vietnam",
+    "country": "Vietnam"
+  },
+  "phnom penh|kh,la,th,vn": {
+    "lat": 11.5730391,
+    "lng": 104.857807,
+    "displayName": "Phnom Penh, Cambodia",
+    "country": "Cambodia"
+  },
+  "battambang|kh,la,th,vn": {
+    "lat": 12.9256791,
+    "lng": 103.2317136,
+    "displayName": "Battambang, Cambodia",
+    "country": "Cambodia"
+  },
+  "siem reap|kh,la,th,vn": {
+    "lat": 13.3617562,
+    "lng": 103.8590321,
+    "displayName": "Siem Reap, 123456, Cambodia",
+    "country": "Cambodia"
+  },
+  "angkor wat|kh,la,th,vn": {
+    "lat": 13.412521,
+    "lng": 103.8665896,
+    "displayName": "Angkor Wat, Temporary access, Siem Reap, 171253, Cambodia",
+    "country": "Cambodia"
+  },
+  "bangkok|kh,la,th,vn": {
+    "lat": 13.7524938,
+    "lng": 100.4935089,
+    "displayName": "Bangkok, Thailand",
+    "country": "Thailand"
+  },
+  "thailand|gb,kh,th,vn": {
+    "lat": 14.8971921,
+    "lng": 100.83273,
+    "displayName": "Thailand",
+    "country": "Thailand"
+  },
+  "bangkok|gb,kh,th,vn": {
+    "lat": 13.7524938,
+    "lng": 100.4935089,
+    "displayName": "Bangkok, Thailand",
+    "country": "Thailand"
+  },
+  "cambodia|gb,kh,th,vn": {
+    "lat": 12.5433216,
+    "lng": 104.8144914,
+    "displayName": "Cambodia",
+    "country": "Cambodia"
+  },
+  "siem reap|gb,kh,th,vn": {
+    "lat": 13.3617562,
+    "lng": 103.8590321,
+    "displayName": "Siem Reap, 123456, Cambodia",
+    "country": "Cambodia"
+  },
+  "angkor wat|gb,kh,th,vn": {
+    "lat": 13.412521,
+    "lng": 103.8665896,
+    "displayName": "Angkor Wat, Temporary access, Siem Reap, 171253, Cambodia",
+    "country": "Cambodia"
+  },
+  "phnom penh|gb,kh,th,vn": {
+    "lat": 11.5730391,
+    "lng": 104.857807,
+    "displayName": "Phnom Penh, Cambodia",
+    "country": "Cambodia"
+  },
+  "vietnam|gb,kh,th,vn": {
+    "lat": 15.9266657,
+    "lng": 107.9650855,
+    "displayName": "Vietnam",
+    "country": "Vietnam"
+  },
+  "can tho|gb,kh,th,vn": {
+    "lat": 10.0362046,
+    "lng": 105.7872656,
+    "displayName": "Cần Thơ, Vietnam",
+    "country": "Vietnam"
+  },
+  "ho chi minh city|gb,kh,th,vn": {
+    "lat": 10.7737261,
+    "lng": 106.7166008,
+    "displayName": "Ho Chi Minh City, Vietnam",
+    "country": "Vietnam"
+  },
+  "ho chi minh|gb,kh,th,vn": {
+    "lat": 10.7737261,
+    "lng": 106.7166008,
+    "displayName": "Ho Chi Minh City, Vietnam",
+    "country": "Vietnam"
+  },
+  "uk|gb,kh,th,vn": {
+    "lat": 54.7023545,
+    "lng": -3.2765753,
+    "displayName": "United Kingdom",
+    "country": "United Kingdom"
+  },
+  "mekong delta|kh,th,vn": {
+    "lat": 9.7508958,
+    "lng": 105.2224602,
+    "displayName": "Mekong Delta, Vietnam",
+    "country": "Vietnam"
+  },
+  "ha tien|kh,th,vn": {
+    "lat": 10.3807146,
+    "lng": 104.4870796,
+    "displayName": "Hà Tiên, Hòn Tre, Xã Tiên Hải, An Giang Province, 91511, Vietnam",
+    "country": "Vietnam"
+  },
+  "kampot|kh,th,vn": {
+    "lat": 10.6314754,
+    "lng": 104.132637,
+    "displayName": "Kampot, Cambodia",
+    "country": "Cambodia"
+  },
+  "angkor|kh,th,vn": {
+    "lat": 11.5717457,
+    "lng": 104.928468,
+    "displayName": "Angkor (Street 5), Sangkat Phsar Kandal Ti Muoy, Khan Daun Penh, Phnom Penh, 120205, Cambodia",
+    "country": "Cambodia"
+  },
+  "cairo|eg,jo": {
+    "lat": 30.0443879,
+    "lng": 31.2357257,
+    "displayName": "Cairo, Egypt",
+    "country": "Egypt"
+  },
+  "alexandria|eg,jo": {
+    "lat": 31.1991806,
+    "lng": 29.8951716,
+    "displayName": "Alexandria, 21519, Egypt",
+    "country": "Egypt"
+  },
+  "sphinx|eg,jo": {
+    "lat": 29.9752811,
+    "lng": 31.1375124,
+    "displayName": "The Great Sphinx, Abou Al Houl Al Syahi Street, Nazlet al Batran, Giza, Aj Jiza, 12125, Egypt",
+    "country": "Egypt"
+  },
+  "abu simbel|eg,jo": {
+    "lat": 22.3371195,
+    "lng": 31.6257973,
+    "displayName": "Abu Simbel Temples, Al Maabd Street, Abu Simbel City, Aswan, 81525, Egypt",
+    "country": "Egypt"
+  },
+  "amman|eg,jo": {
+    "lat": 31.9515694,
+    "lng": 35.9239625,
+    "displayName": "Amman, Amman Sub-District, Amman Qasabah District, Amman, 11110, Jordan",
+    "country": "Jordan"
+  },
+  "shobak|eg,jo": {
+    "lat": 30.5039808,
+    "lng": 35.5666637,
+    "displayName": "Shobak Qasabah District, Maan, Jordan",
+    "country": "Jordan"
+  },
+  "wadi rum|eg,jo": {
+    "lat": 29.5175168,
+    "lng": 35.383643,
+    "displayName": "Wadi Rum Protected Area, Aqaba Sub-District, Aqaba Qasabah District, Aqaba, Jordan",
+    "country": "Jordan"
+  },
+  "feel|eg,jo": {
+    "lat": 32.0254766,
+    "lng": 35.8651759,
+    "displayName": "Aam Al-Feel Street, البلدية, Sweileh, Al-Jubaiha, Al-Jami'ah Sub-District, Al-Jami'ah District, Amman, 11282, Jordan",
+    "country": "Jordan"
+  },
+  "jordan|eg,jo": {
+    "lat": 31.1667049,
+    "lng": 36.941628,
+    "displayName": "Jordan",
+    "country": "Jordan"
+  },
+  "petra|eg,jo": {
+    "lat": 30.3497724,
+    "lng": 35.3764846,
+    "displayName": "Petra, Wadi Araba Sub-District, Aqaba Qasabah District, Aqaba, Jordan",
+    "country": "Jordan"
+  },
+  "egypt|eg,jo": {
+    "lat": 26.2540493,
+    "lng": 29.2675469,
+    "displayName": "Egypt",
+    "country": "Egypt"
+  },
+  "giza|eg,jo": {
+    "lat": 29.9870753,
+    "lng": 31.2118063,
+    "displayName": "Giza, Aj Jiza, 12524, Egypt",
+    "country": "Egypt"
+  },
+  "kom ombo|eg,jo": {
+    "lat": 24.4762478,
+    "lng": 32.9495225,
+    "displayName": "Kawm Ombo, Aswan, 81611, Egypt",
+    "country": "Egypt"
+  },
+  "aswan|eg,jo": {
+    "lat": 24.091071,
+    "lng": 32.897306,
+    "displayName": "Aswan, 81511, Egypt",
+    "country": "Egypt"
+  },
+  "amman airport|eg,jo": {
+    "lat": 31.9732962,
+    "lng": 35.9944358,
+    "displayName": "Amman Airport, Rushdi Malhas Street, منطقة ماركا, Marka Sub-District, Marka District, Amman, 11131, Jordan",
+    "country": "Jordan"
+  },
+  "to luxor|eg,jo": {
+    "lat": 31.1333669,
+    "lng": 30.1296339,
+    "displayName": "Luxor Street, Kafr al Dawar, Lake, 22621, Egypt",
+    "country": "Egypt"
+  },
+  "nuweiba|eg,jo": {
+    "lat": 29.035,
+    "lng": 34.661667,
+    "displayName": "Nueiba, South Sinai, 46618, Egypt",
+    "country": "Egypt"
+  },
+  "dahab|eg,jo": {
+    "lat": 28.4963633,
+    "lng": 34.5145652,
+    "displayName": "Dahab, South Sinai, 45214, Egypt",
+    "country": "Egypt"
+  },
+  "edfu|eg,jo": {
+    "lat": 24.980278,
+    "lng": 32.8747219,
+    "displayName": "Idfu City, Aswan, 81644, Egypt",
+    "country": "Egypt"
+  },
+  "luxor|eg,jo": {
+    "lat": 25.702096,
+    "lng": 32.647186,
+    "displayName": "Luxor, 85951, Egypt",
+    "country": "Egypt"
+  },
+  "aqaba|eg,jo": {
+    "lat": 29.5266483,
+    "lng": 35.0075433,
+    "displayName": "Aqaba, Aqaba Sub-District, Aqaba Qasabah District, Aqaba, 77100, Jordan",
+    "country": "Jordan"
+  },
+  "tel aviv-yafo|eg,il,jo,ps": {
+    "lat": 32.0852997,
+    "lng": 34.7818064,
+    "displayName": "Tel-Aviv, Tel Aviv Subdistrict, Tel-Aviv District, Israel",
+    "country": "Israel"
+  },
+  "dead sea|eg,il,jo,ps": {
+    "lat": 31.541946,
+    "lng": 35.4812013,
+    "displayName": "Dead Sea, Area C, Judea and Samaria, Palestinian Territories",
+    "country": "Palestinian Territories"
+  },
+  "jerusalem|eg,il,jo,ps": {
+    "lat": 31.7788472,
+    "lng": 35.2257856,
+    "displayName": "Jerusalem, Jerusalem Subdistrict, Jerusalem District, Israel",
+    "country": "Israel"
+  },
+  "safed|eg,il,jo,ps": {
+    "lat": 32.9646301,
+    "lng": 35.502451,
+    "displayName": "Safed, Safed Subdistrict, North District, 1311502, Israel",
+    "country": "Israel"
+  },
+  "golan heights|eg,il,jo,ps": {
+    "lat": 33.0408017,
+    "lng": 35.7392885,
+    "displayName": "Golan Heights, Israel",
+    "country": "Israel"
+  },
+  "tel aviv|eg,il,jo,ps": {
+    "lat": 32.0852997,
+    "lng": 34.7818064,
+    "displayName": "Tel-Aviv, Tel Aviv Subdistrict, Tel-Aviv District, Israel",
+    "country": "Israel"
+  },
+  "amman|eg,il,jo,ps": {
+    "lat": 31.9515694,
+    "lng": 35.9239625,
+    "displayName": "Amman, Amman Sub-District, Amman Qasabah District, Amman, 11110, Jordan",
+    "country": "Jordan"
+  },
+  "petra|eg,il,jo,ps": {
+    "lat": 30.3497724,
+    "lng": 35.3764846,
+    "displayName": "Petra, Wadi Araba Sub-District, Aqaba Qasabah District, Aqaba, Jordan",
+    "country": "Jordan"
+  },
+  "cairo|eg,il,jo,ps": {
+    "lat": 30.0443879,
+    "lng": 31.2357257,
+    "displayName": "Cairo, Egypt",
+    "country": "Egypt"
+  },
+  "egyptian museum|eg,il,jo,ps": {
+    "lat": 30.0479664,
+    "lng": 31.2336093,
+    "displayName": "Egyptian Museum, Merit Pasha Street, Al Ismalia, Bab al Luq, Cairo, 11556, Egypt",
+    "country": "Egypt"
+  },
+  "sphinx|eg,il,jo,ps": {
+    "lat": 29.9752811,
+    "lng": 31.1375124,
+    "displayName": "The Great Sphinx, Abou Al Houl Al Syahi Street, Nazlet al Batran, Giza, Aj Jiza, 12125, Egypt",
+    "country": "Egypt"
+  },
+  "botanical garden|eg,il,jo,ps": {
+    "lat": 31.7700532,
+    "lng": 35.1999687,
+    "displayName": "Botanical Garden, Nayot, Jerusalem, Jerusalem Subdistrict, Jerusalem District, Israel",
+    "country": "Israel"
+  },
+  "edfu|eg,il,jo,ps": {
+    "lat": 24.980278,
+    "lng": 32.8747219,
+    "displayName": "Idfu City, Aswan, 81644, Egypt",
+    "country": "Egypt"
+  },
+  "esna|eg,il,jo,ps": {
+    "lat": 25.2936689,
+    "lng": 32.5531993,
+    "displayName": "Esna, Isna, Luxor, Egypt",
+    "country": "Egypt"
+  },
+  "luxor|eg,il,jo,ps": {
+    "lat": 25.702096,
+    "lng": 32.647186,
+    "displayName": "Luxor, 85951, Egypt",
+    "country": "Egypt"
+  },
+  "cairo international airport|eg,il,jo,ps": {
+    "lat": 30.1140504,
+    "lng": 31.4245461,
+    "displayName": "Cairo International Airport, The Ring Road, Burg al Hudud, Cairo, 11773, Egypt",
+    "country": "Egypt"
+  },
+  "aswan|eg,il,jo,ps": {
+    "lat": 24.091071,
+    "lng": 32.897306,
+    "displayName": "Aswan, 81511, Egypt",
+    "country": "Egypt"
+  },
+  "kings|eg,il,jo,ps": {
+    "lat": 25.7404899,
+    "lng": 32.6017581,
+    "displayName": "Valley of the Kings, New Al Qarnh City, Luxor, Egypt",
+    "country": "Egypt"
+  },
+  "wadi rum|eg,il,jo,ps": {
+    "lat": 29.5175168,
+    "lng": 35.383643,
+    "displayName": "Wadi Rum Protected Area, Aqaba Sub-District, Aqaba Qasabah District, Aqaba, Jordan",
+    "country": "Jordan"
+  },
+  "madaba|eg,il,jo,ps": {
+    "lat": 31.7165941,
+    "lng": 35.7943856,
+    "displayName": "Madaba, Madaba Sub-District, Madaba Qasabah District, Madaba, 17110, Jordan",
+    "country": "Jordan"
+  },
+  "antiquities|eg,il,jo,ps": {
+    "lat": 30.0479664,
+    "lng": 31.2336093,
+    "displayName": "Egyptian Museum, Merit Pasha Street, Al Ismalia, Bab al Luq, Cairo, 11556, Egypt",
+    "country": "Egypt"
+  },
+  "abu simbel|eg,il,jo,ps": {
+    "lat": 22.3371195,
+    "lng": 31.6257973,
+    "displayName": "Abu Simbel Temples, Al Maabd Street, Abu Simbel City, Aswan, 81525, Egypt",
+    "country": "Egypt"
+  },
+  "tokyo|jp": {
+    "lat": 35.6768601,
+    "lng": 139.7638947,
+    "displayName": "Tokyo, Japan",
+    "country": "Japan"
+  },
+  "mount fuji|jp": {
+    "lat": 35.3628384,
+    "lng": 138.7307677,
+    "displayName": "Mount Fuji, Oyama, Sunto County, Shizuoka Prefecture, Japan",
+    "country": "Japan"
+  },
+  "kanazawa|jp": {
+    "lat": 36.561627,
+    "lng": 136.6568822,
+    "displayName": "Kanazawa, Ishikawa Prefecture, Japan",
+    "country": "Japan"
+  },
+  "peace museum|jp": {
+    "lat": 31.3637043,
+    "lng": 130.4344322,
+    "displayName": "Chiran Peace Museum for Kamikaze Pilots, 旧県道, 打出口, Chiran, Minamikyushu, Kagoshima Prefecture, 897-0302, Japan",
+    "country": "Japan"
+  },
+  "take|jp": {
+    "lat": 31.5817988,
+    "lng": 130.5377491,
+    "displayName": "Take, Jousei, Kagoshima, Kagoshima Prefecture, 892-8677, Japan",
+    "country": "Japan"
+  },
+  "nijo castle|jp": {
+    "lat": 35.0140076,
+    "lng": 135.7485369,
+    "displayName": "Nijō Castle, Oshikoji-dori, Monzencho, Nakagyo Ward, Kyoto, Kyoto Prefecture, 604-8375, Japan",
+    "country": "Japan"
+  },
+  "arashiyama|jp": {
+    "lat": 35.0090473,
+    "lng": 135.6744961,
+    "displayName": "Arashiyama, Utano Arashiyama Yamada Line, Arashiyama-Nakaoshitacho, Nishikyo Ward, Kyoto, Kyoto Prefecture, 615-0000, Japan",
+    "country": "Japan"
+  },
+  "kyoto|jp": {
+    "lat": 35.0115754,
+    "lng": 135.7681441,
+    "displayName": "Kyoto, Kyoto Prefecture, Japan",
+    "country": "Japan"
+  },
+  "shizuoka|jp": {
+    "lat": 34.9751974,
+    "lng": 138.3831697,
+    "displayName": "Shizuoka, Shizuoka Prefecture, 420-8602, Japan",
+    "country": "Japan"
+  },
+  "iga|jp": {
+    "lat": 34.7497761,
+    "lng": 136.1423355,
+    "displayName": "Iga, Mie Prefecture, Japan",
+    "country": "Japan"
+  },
+  "osaka|jp": {
+    "lat": 34.6937569,
+    "lng": 135.5014539,
+    "displayName": "Osaka, Osaka Prefecture, Japan",
+    "country": "Japan"
+  },
+  "hiroshima|jp": {
+    "lat": 34.3917241,
+    "lng": 132.4517589,
+    "displayName": "Hiroshima, Hiroshima Prefecture, Japan",
+    "country": "Japan"
+  },
+  "takayama|jp": {
+    "lat": 36.1396246,
+    "lng": 137.2510322,
+    "displayName": "Takayama, Gifu Prefecture, Japan",
+    "country": "Japan"
+  },
+  "traditional kanazawa|jp": {
+    "lat": 36.5611324,
+    "lng": 136.6639942,
+    "displayName": "Ishikawa Prefectural Museum of Traditional Arts and Crafts, Kenrokumachi, Kanazawa, Ishikawa Prefecture, 920-0936, Japan",
+    "country": "Japan"
+  },
+  "japan|jp": {
+    "lat": 36.5748441,
+    "lng": 139.2394179,
+    "displayName": "Japan",
+    "country": "Japan"
+  },
+  "mount takao|jp": {
+    "lat": 35.6252267,
+    "lng": 139.2436878,
+    "displayName": "Mount Takao, Tokyo, 193-0841, Japan",
+    "country": "Japan"
+  },
+  "zenkoji|jp": {
+    "lat": 35.6598766,
+    "lng": 138.5893576,
+    "displayName": "Zenkoji, joto street, Joto 5-chome, Sunadacho, Kōfu, Yamanashi Prefecture, 400-0806, Japan",
+    "country": "Japan"
+  },
+  "azumino|jp": {
+    "lat": 36.3044083,
+    "lng": 137.9054972,
+    "displayName": "Azumino, Nagano Prefecture, Japan",
+    "country": "Japan"
+  },
+  "kiso-fukushima|jp": {
+    "lat": 35.8439371,
+    "lng": 137.693597,
+    "displayName": "Kiso-Fukushima, 中山道, Kiso, Kiso District, Nagano Prefecture, 397-0001, Japan",
+    "country": "Japan"
+  },
+  "mount koya|jp": {
+    "lat": 34.2204635,
+    "lng": 135.5724124,
+    "displayName": "Mount Benten, Kōya, Ito County, Wakayama Prefecture, 648-0211, Japan",
+    "country": "Japan"
+  },
+  "lake kawaguchi|jp": {
+    "lat": 35.5130603,
+    "lng": 138.7448243,
+    "displayName": "Lake Kawaguchi, Fujikawaguchiko, Minamitsuru County, Yamanashi Prefecture, 401-0392, Japan",
+    "country": "Japan"
+  },
+  "hakone|jp": {
+    "lat": 35.2323662,
+    "lng": 139.1068849,
+    "displayName": "Hakone, Ashigarashimo County, Kanagawa Prefecture, 250-0398, Japan",
+    "country": "Japan"
+  },
+  "miyajima island|jp": {
+    "lat": 35.1226115,
+    "lng": 138.9118323,
+    "displayName": "Miyajima Island, Mishima, Shizuoka Prefecture, 411-0036, Japan",
+    "country": "Japan"
+  },
+  "shizuoka prefecture|jp": {
+    "lat": 34.9332488,
+    "lng": 138.0955398,
+    "displayName": "Shizuoka Prefecture, Japan",
+    "country": "Japan"
+  },
+  "reykjavik|is": {
+    "lat": 64.145981,
+    "lng": -21.9422367,
+    "displayName": "Reykjavik, Capital Region, Iceland",
+    "country": "Iceland"
+  },
+  "blue lagoon|is": {
+    "lat": 63.8791684,
+    "lng": -22.4443196,
+    "displayName": "Blue Lagoon, Grindavík, Grindavíkurbær, Southern Peninsula, Iceland",
+    "country": "Iceland"
+  },
+  "reykjavík|is": {
+    "lat": 64.145981,
+    "lng": -21.9422367,
+    "displayName": "Reykjavik, Capital Region, Iceland",
+    "country": "Iceland"
+  },
+  "hella|is": {
+    "lat": 63.8355038,
+    "lng": -20.3987009,
+    "displayName": "Hella, Rangárþing ytra, Southern Region, 850, Iceland",
+    "country": "Iceland"
+  },
+  "vík|is": {
+    "lat": 63.4188166,
+    "lng": -19.0054737,
+    "displayName": "Vik, Mýrdalshreppur, Southern Region, 870, Iceland",
+    "country": "Iceland"
+  },
+  "höfn|is": {
+    "lat": 64.2532647,
+    "lng": -15.2080441,
+    "displayName": "Höfn, Sveitarfélagið Hornafjörður, Southern Region, 780, Iceland",
+    "country": "Iceland"
+  },
+  "egilsstaðir|is": {
+    "lat": 65.2620412,
+    "lng": -14.4035258,
+    "displayName": "Egilsstaðir, Múlaþing, Eastern Region, 700, Iceland",
+    "country": "Iceland"
+  },
+  "akureyri|is": {
+    "lat": 65.6839036,
+    "lng": -18.1121756,
+    "displayName": "Akureyri, Northeastern Region, Iceland",
+    "country": "Iceland"
+  },
+  "borgarnes|is": {
+    "lat": 64.5383337,
+    "lng": -21.920208,
+    "displayName": "Borgarnes, Western Region, Iceland",
+    "country": "Iceland"
+  },
+  "snæfellsjökull national park|is": {
+    "lat": 64.8219535,
+    "lng": -23.8604096,
+    "displayName": "Snæfellsjökull National Park, Snæfellsbær, Western Region, Iceland",
+    "country": "Iceland"
+  },
+  "flúðir|is": {
+    "lat": 64.1306381,
+    "lng": -20.3209294,
+    "displayName": "Fludir, Hrunamannahreppur, Southern Region, 845, Iceland",
+    "country": "Iceland"
+  },
+  "húsafell|is": {
+    "lat": 63.85385,
+    "lng": -22.37486,
+    "displayName": "Húsafell, Grindavík, Grindavíkurbær, Southern Peninsula, 241, Iceland",
+    "country": "Iceland"
+  },
+  "selfoss|is": {
+    "lat": 63.9368093,
+    "lng": -21.0035319,
+    "displayName": "Selfoss, Sveitarfélagið Árborg, Southern Region, 800, Iceland",
+    "country": "Iceland"
+  },
+  "borgarfjörður|is": {
+    "lat": 64.4952432,
+    "lng": -22.0192921,
+    "displayName": "Borgarfjörður, Western Region, Iceland",
+    "country": "Iceland"
+  },
+  "hofn|is": {
+    "lat": 64.2532647,
+    "lng": -15.2080441,
+    "displayName": "Höfn, Sveitarfélagið Hornafjörður, Southern Region, 780, Iceland",
+    "country": "Iceland"
+  },
+  "vik|is": {
+    "lat": 63.4188166,
+    "lng": -19.0054737,
+    "displayName": "Vik, Mýrdalshreppur, Southern Region, 870, Iceland",
+    "country": "Iceland"
+  },
+  "arusha|tz": {
+    "lat": -3.3696827,
+    "lng": 36.6880794,
+    "displayName": "Arusha, Arusha Municipal, Arusha, Northern Zone, 23103, Tanzania",
+    "country": "Tanzania"
+  },
+  "ngorongoro crater|tz": {
+    "lat": -3.1766341,
+    "lng": 35.5788125,
+    "displayName": "Ngorongoro Crater, Ngorongoro, Arusha, Northern Zone, Tanzania",
+    "country": "Tanzania"
+  },
+  "serengeti|tz": {
+    "lat": -1.962263,
+    "lng": 34.7690573,
+    "displayName": "Serengeti, Mara Region, Lake Zone, 31611, Tanzania",
+    "country": "Tanzania"
+  },
+  "gombe|tz": {
+    "lat": -8.8579916,
+    "lng": 36.7974518,
+    "displayName": "Gombe, Ulanga, Morogoro Region, Coastal Zone, Tanzania",
+    "country": "Tanzania"
+  },
+  "kigoma|tz": {
+    "lat": -4.5126571,
+    "lng": 30.0050533,
+    "displayName": "Kigoma Region, Western Zone, Tanzania",
+    "country": "Tanzania"
+  },
+  "dar|tz": {
+    "lat": -6.8741937,
+    "lng": 39.207524,
+    "displayName": "Julius Nyerere International Airport, Nyerere Road, Kipawa, Ilala Municipal, Dar es Salaam, Coastal Zone, 17503, Tanzania",
+    "country": "Tanzania"
+  },
+  "full|tz": {
+    "lat": -1.8361592,
+    "lng": 34.6782183,
+    "displayName": "Full Gospel Farm, MCU Village, Mugumu, Stendi Kuu, Bomani, Serengeti, Mara Region, Lake Zone, Tanzania",
+    "country": "Tanzania"
+  },
+  "arusha-tanzania|tz": {
+    "lat": -3.3696827,
+    "lng": 36.6880794,
+    "displayName": "Arusha, Arusha Municipal, Arusha, Northern Zone, 23103, Tanzania",
+    "country": "Tanzania"
+  },
+  "tanzania|tz": {
+    "lat": -6.5247123,
+    "lng": 35.7878438,
+    "displayName": "Tanzania",
+    "country": "Tanzania"
+  },
+  "tarangire|tz": {
+    "lat": -6.7084133,
+    "lng": 39.2106931,
+    "displayName": "Tarangire, Mbezi, Kawe, Kinondoni Municipal, Dar es Salaam, Coastal Zone, 14130, Tanzania",
+    "country": "Tanzania"
+  },
+  "ngorongoro|tz": {
+    "lat": -3.0735158,
+    "lng": 35.4205768,
+    "displayName": "Ngorongoro Conservation Area, Arusha, Northern Zone, Tanzania",
+    "country": "Tanzania"
+  },
+  "manyara|tz": {
+    "lat": -4.072751,
+    "lng": 35.8521735,
+    "displayName": "Manyara Region, Northern Zone, Tanzania",
+    "country": "Tanzania"
+  },
+  "mto|tz": {
+    "lat": -6.1368582,
+    "lng": 36.0546244,
+    "displayName": "Mto, Chinangali II, Chamwino, Dodoma Region, Central Zone, Tanzania",
+    "country": "Tanzania"
+  },
+  "serengeti national park|tz": {
+    "lat": -2.3712909,
+    "lng": 34.6983828,
+    "displayName": "Serengeti National Park, Lake Zone, 31611, Tanzania",
+    "country": "Tanzania"
+  },
+  "england|gb,ie": {
+    "lat": 52.5310214,
+    "lng": -1.2649062,
+    "displayName": "England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "london|gb,ie": {
+    "lat": 51.5074456,
+    "lng": -0.1277653,
+    "displayName": "Greater London, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "scotland edinburgh|gb,ie": {
+    "lat": 55.9533456,
+    "lng": -3.1883749,
+    "displayName": "City of Edinburgh, Scotland, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "edinburgh|gb,ie": {
+    "lat": 55.9533456,
+    "lng": -3.1883749,
+    "displayName": "City of Edinburgh, Scotland, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "strathpeffer|gb,ie": {
+    "lat": 57.5880136,
+    "lng": -4.5381918,
+    "displayName": "Strathpeffer, Highland, Scotland, IV14 9DW, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "england liverpool|gb,ie": {
+    "lat": 53.3933411,
+    "lng": -2.9166389,
+    "displayName": "Liverpool, Liverpool City Region, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "wales|gb,ie": {
+    "lat": 52.2928116,
+    "lng": -3.73893,
+    "displayName": "Wales, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "scotland|gb,ie": {
+    "lat": 56.7861112,
+    "lng": -4.1140518,
+    "displayName": "Scotland, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "york|gb,ie": {
+    "lat": 53.9656579,
+    "lng": -1.0743052,
+    "displayName": "York, York and North Yorkshire, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "cardiff|gb,ie": {
+    "lat": 51.4816546,
+    "lng": -3.1791934,
+    "displayName": "Cardiff, Wales, CF10 2AF, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "ireland|gb,ie": {
+    "lat": 52.865196,
+    "lng": -7.9794599,
+    "displayName": "Ireland",
+    "country": "Ireland"
+  },
+  "killarney|gb,ie": {
+    "lat": 52.0595746,
+    "lng": -9.505322,
+    "displayName": "Killarney, Killarney Municipal District, County Kerry, Munster, Ireland",
+    "country": "Ireland"
+  },
+  "dublin|gb,ie": {
+    "lat": 53.3493795,
+    "lng": -6.2605593,
+    "displayName": "Dublin, County Dublin, Leinster, Ireland",
+    "country": "Ireland"
+  },
+  "ends|gb,ie": {
+    "lat": 55.010164,
+    "lng": -1.5785049,
+    "displayName": "Four Lane Ends, Teal Close, Benton, Forest Hall, North Tyneside, Tyne and Wear, North East, England, NE7 7UJ, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "wales|gb": {
+    "lat": 52.2928116,
+    "lng": -3.73893,
+    "displayName": "Wales, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "scotland|gb": {
+    "lat": 56.7861112,
+    "lng": -4.1140518,
+    "displayName": "Scotland, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "edinburgh|gb": {
+    "lat": 55.9533456,
+    "lng": -3.1883749,
+    "displayName": "City of Edinburgh, Scotland, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "england|gb": {
+    "lat": 52.5310214,
+    "lng": -1.2649062,
+    "displayName": "England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "chester|gb": {
+    "lat": 53.1908873,
+    "lng": -2.8908955,
+    "displayName": "Chester, Cheshire West and Chester, England, CH1 2ET, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "stratford-upon-avon|gb": {
+    "lat": 52.1927803,
+    "lng": -1.70634,
+    "displayName": "Stratford-upon-Avon, Stratford-on-Avon, Warwickshire, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "london|gb": {
+    "lat": 51.5074456,
+    "lng": -0.1277653,
+    "displayName": "Greater London, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "ends|gb": {
+    "lat": 55.010164,
+    "lng": -1.5785049,
+    "displayName": "Four Lane Ends, Teal Close, Benton, Forest Hall, North Tyneside, Tyne and Wear, North East, England, NE7 7UJ, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "chester|gb,ie": {
+    "lat": 53.1908873,
+    "lng": -2.8908955,
+    "displayName": "Chester, Cheshire West and Chester, England, CH1 2ET, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "stratford-upon-avon|gb,ie": {
+    "lat": 52.1927803,
+    "lng": -1.70634,
+    "displayName": "Stratford-upon-Avon, Stratford-on-Avon, Warwickshire, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "durham|gb,ie": {
+    "lat": 54.666667,
+    "lng": -1.75,
+    "displayName": "County Durham, North East, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "glasgow|gb,ie": {
+    "lat": 55.861155,
+    "lng": -4.2501687,
+    "displayName": "Glasgow, Glasgow City, Scotland, G2 1AR, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "cork|gb,ie": {
+    "lat": 51.8985136,
+    "lng": -8.4726423,
+    "displayName": "Cork, County Cork, Munster, Ireland",
+    "country": "Ireland"
+  },
+  "limerick|gb,ie": {
+    "lat": 52.661252,
+    "lng": -8.6301239,
+    "displayName": "Limerick, County Limerick, Munster, Ireland",
+    "country": "Ireland"
+  },
+  "galway|gb,ie": {
+    "lat": 53.2744122,
+    "lng": -9.0490601,
+    "displayName": "Galway, County Galway, Connacht, Ireland",
+    "country": "Ireland"
+  },
+  "liverpool|gb,ie": {
+    "lat": 53.3933411,
+    "lng": -2.9166389,
+    "displayName": "Liverpool, Liverpool City Region, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "b/-/-|gb,ie": {
+    "lat": 51.4919328,
+    "lng": 0.0703949,
+    "displayName": "Woolwich, Major Draper Street, Royal Arsenal Riverside, Glyndon, Plumstead, Royal Borough of Greenwich, Greater London, England, SE18 6ZF, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "b/-/d|gb,ie": {
+    "lat": 53.4286072,
+    "lng": -7.8953692,
+    "displayName": "Block D, Blyry Business & Commercial Park, Moydrum ED, The Municipal District of Athlone — Moate, County Westmeath, Leinster, N37 P044, Ireland",
+    "country": "Ireland"
+  },
+  "georgian bath|gb,ie": {
+    "lat": 51.38537,
+    "lng": -2.3647862,
+    "displayName": "Georgian Garden, Kingsmead, Bath, Bath and North East Somerset, West of England, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "bath|gb,ie": {
+    "lat": 51.3813864,
+    "lng": -2.3596963,
+    "displayName": "Bath, Bath and North East Somerset, West of England, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "alnwick castle|gb,ie": {
+    "lat": 55.4154664,
+    "lng": -1.7064926,
+    "displayName": "Alnwick Castle, Bailiffgate, Alnwick, Northumberland, North East, England, NE66 1NQ, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "belfast|gb,ie": {
+    "lat": 54.596391,
+    "lng": -5.9301829,
+    "displayName": "Belfast City District, County Antrim, Northern Ireland, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "londonderry|gb,ie": {
+    "lat": 54.9978678,
+    "lng": -7.3213056,
+    "displayName": "Derry/Londonderry, Derry and Strabane District, County Londonderry, Northern Ireland, BT48 6BU, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "irish|gb,ie": {
+    "lat": 50.5637408,
+    "lng": -4.6654572,
+    "displayName": "Irish, St. Breward, Cornwall, England, PL30 4NR, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "kilkenny|gb,ie": {
+    "lat": 52.6506255,
+    "lng": -7.2514438,
+    "displayName": "Kilkenny, County Kilkenny, Leinster, Ireland",
+    "country": "Ireland"
+  },
+  "blarney|gb,ie": {
+    "lat": 51.9324626,
+    "lng": -8.5680966,
+    "displayName": "Blarney, County Cork, Munster, Ireland",
+    "country": "Ireland"
+  },
+  "kerry|gb,ie": {
+    "lat": 52.5025395,
+    "lng": -3.2573033,
+    "displayName": "Kerry, Powys, Wales, SY16 4NQ, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "county mayo|gb,ie": {
+    "lat": 53.9086522,
+    "lng": -9.2981258,
+    "displayName": "County Mayo, Connacht, Ireland",
+    "country": "Ireland"
+  },
+  "shannon|gb,ie": {
+    "lat": 53.1349614,
+    "lng": -8.1611027,
+    "displayName": "Shannon, Ireland",
+    "country": "Ireland"
+  },
+  "lake district|gb,ie": {
+    "lat": 54.4785304,
+    "lng": -3.0655331,
+    "displayName": "Lake District National Park, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "cotswolds|gb": {
+    "lat": 51.7489426,
+    "lng": -0.2303335,
+    "displayName": "Cotswolds, Hilltop, South Hatfield, Hatfield, Welham Green, Welwyn Hatfield, Hertfordshire, England, AL10 8JR, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "lake district|gb": {
+    "lat": 54.4785304,
+    "lng": -3.0655331,
+    "displayName": "Lake District National Park, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "highlands|gb": {
+    "lat": 57.3333333,
+    "lng": -4.25,
+    "displayName": "Highlands, Highland, Scotland, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "glasgow|gb": {
+    "lat": 55.861155,
+    "lng": -4.2501687,
+    "displayName": "Glasgow, Glasgow City, Scotland, G2 1AL, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "waterford|gb,ie": {
+    "lat": 52.2609997,
+    "lng": -7.1119081,
+    "displayName": "Waterford, County Waterford, Munster, Ireland",
+    "country": "Ireland"
+  },
+  "tralee|gb,ie": {
+    "lat": 52.2692116,
+    "lng": -9.7057047,
+    "displayName": "Tralee, County Kerry, Munster, Ireland",
+    "country": "Ireland"
+  },
+  "haydock|gb,ie": {
+    "lat": 53.4671946,
+    "lng": -2.6618064,
+    "displayName": "Haydock, St Helens, Liverpool City Region, England, WA11 0TN, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "queensferry|gb,ie": {
+    "lat": 55.9902293,
+    "lng": -3.3966999,
+    "displayName": "South Queensferry, Scotland, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "cheltenham|gb,ie": {
+    "lat": 51.8995685,
+    "lng": -2.0711559,
+    "displayName": "Cheltenham, Gloucestershire, England, GL52 2RX, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "gretna green|gb": {
+    "lat": 55.0007365,
+    "lng": -3.066695,
+    "displayName": "Gretna Green, Gretna Bypass, Floshend Cottage, Gretna, Dumfries and Galloway, Scotland, DG16 5FN, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "york|gb": {
+    "lat": 53.9656579,
+    "lng": -1.0743052,
+    "displayName": "York, York and North Yorkshire, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "cardiff|gb": {
+    "lat": 51.4816546,
+    "lng": -3.1791934,
+    "displayName": "Cardiff, Wales, CF10 2AF, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "bath|gb": {
+    "lat": 51.3813864,
+    "lng": -2.3596963,
+    "displayName": "Bath, Bath and North East Somerset, West of England, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "sheffield|gb": {
+    "lat": 53.3806626,
+    "lng": -1.4702278,
+    "displayName": "Sheffield, South Yorkshire, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "strathpeffer|gb": {
+    "lat": 57.5880136,
+    "lng": -4.5381918,
+    "displayName": "Strathpeffer, Highland, Scotland, IV14 9DW, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "liverpool|gb": {
+    "lat": 53.3933411,
+    "lng": -2.9166389,
+    "displayName": "Liverpool, Liverpool City Region, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "plymouth|gb": {
+    "lat": 50.3714122,
+    "lng": -4.1424451,
+    "displayName": "Plymouth, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "dingle|gb,ie": {
+    "lat": 53.3798767,
+    "lng": -2.9634677,
+    "displayName": "Dingle, Liverpool, Liverpool City Region, England, L8 9UN, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "medieval york|gb,ie": {
+    "lat": 53.9692399,
+    "lng": -1.1011752,
+    "displayName": "Medieval Garden, Clifton, York, York and North Yorkshire, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "inverness|gb,ie": {
+    "lat": 57.4790124,
+    "lng": -4.225739,
+    "displayName": "Inverness, Highland, Scotland, IV1 1AN, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "skye|gb,ie": {
+    "lat": 57.3629935,
+    "lng": -6.3023224,
+    "displayName": "Skye, Highland, Scotland, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "torquay|gb,ie": {
+    "lat": 50.4652392,
+    "lng": -3.5211361,
+    "displayName": "Torquay, Torbay, Devon and Torbay, England, TQ1 1TR, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "stonehenge|gb,ie": {
+    "lat": 51.1788293,
+    "lng": -1.826183,
+    "displayName": "Stonehenge, A303, Amesbury, Wiltshire, England, SP4 7DE, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "homeward bound|gb,ie": {
+    "lat": 52.935063,
+    "lng": -6.8760751,
+    "displayName": "Homeward Bound, Kilkea ED, The Municipal District of Athy, County Kildare, Leinster, Ireland",
+    "country": "Ireland"
+  },
+  "glastonbury|gb,ie": {
+    "lat": 51.14804,
+    "lng": -2.716577,
+    "displayName": "Glastonbury, Somerset, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "cairngorms national park|gb,ie": {
+    "lat": 57.0756408,
+    "lng": -3.6131708,
+    "displayName": "Cairngorms National Park, Scotland, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "black isle|gb,ie": {
+    "lat": 57.5882407,
+    "lng": -4.2543368,
+    "displayName": "the Black Isle, Highland, Scotland, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "mallaig|gb,ie": {
+    "lat": 57.0061325,
+    "lng": -5.8294488,
+    "displayName": "Mallaig, Highland, Scotland, PH41 4QA, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "cromarty|gb": {
+    "lat": 57.6807913,
+    "lng": -4.0346487,
+    "displayName": "Cromarty, Highland, Scotland, IV11 8UY, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "inverness|gb": {
+    "lat": 57.4790124,
+    "lng": -4.225739,
+    "displayName": "Inverness, Highland, Scotland, IV1 1AN, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "strathaird|gb": {
+    "lat": 57.1737186,
+    "lng": -6.0772936,
+    "displayName": "Strathaird, Elgol, Highland, Scotland, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "skye|gb": {
+    "lat": 57.3629935,
+    "lng": -6.3023224,
+    "displayName": "Skye, Highland, Scotland, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "scottish highland|gb": {
+    "lat": 56.8,
+    "lng": -5,
+    "displayName": "Scottish Highlands, Highland, Scotland, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "rannoch moor|gb,ie": {
+    "lat": 56.6740058,
+    "lng": -4.6946057,
+    "displayName": "Rannoch Moor, Perth and Kinross, Scotland, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "fort augustus|gb,ie": {
+    "lat": 57.1447847,
+    "lng": -4.6814203,
+    "displayName": "Fort Augustus, Highland, Scotland, PH32 4AU, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "ullapool|gb": {
+    "lat": 57.8958195,
+    "lng": -5.1602226,
+    "displayName": "Ullapool, Highland, Scotland, IV26 2UG, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "ullapool|gb,ie": {
+    "lat": 57.8958195,
+    "lng": -5.1602226,
+    "displayName": "Ullapool, Highland, Scotland, IV26 2UG, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "fort william|gb,ie": {
+    "lat": 56.8178257,
+    "lng": -5.1109516,
+    "displayName": "Fort William, Highland, Scotland, PH33 6AJ, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "isle|gb": {
+    "lat": 50.6710482,
+    "lng": -1.3327111,
+    "displayName": "Isle of Wight, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "urquhart castle|gb": {
+    "lat": 57.3241087,
+    "lng": -4.4419894,
+    "displayName": "Urquhart Castle, Urquhart Castle Drive, Strone, Lewiston, Highland, Scotland, IV63 6XL, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "riding|kh,la,th,vn": {
+    "lat": 8.0373925,
+    "lng": 98.4077498,
+    "displayName": "Buffalo Riding, Pa Khlok, Thalang District, Phuket Province, Thailand",
+    "country": "Thailand"
+  },
+  "travel|gb,kh,th,vn": {
+    "lat": 53.8554388,
+    "lng": -1.9129494,
+    "displayName": "Museum of Rail Travel, South Street, Spring Bank, Hainworth, Keighley, Ingrow, Bradford, West Yorkshire, England, BD21 5AX, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "mekong|gb,kh,th,vn": {
+    "lat": 11.6624775,
+    "lng": 104.9600643,
+    "displayName": "Mekong River, Khsach Kandal District, Kandal, Cambodia",
+    "country": "Cambodia"
+  },
+  "narita|jp": {
+    "lat": 35.7767683,
+    "lng": 140.3183376,
+    "displayName": "Narita, Chiba Prefecture, 286-8585, Japan",
+    "country": "Japan"
+  },
+  "tarangire national park|tz": {
+    "lat": -4.1248477,
+    "lng": 36.0856778,
+    "displayName": "Tarangire National Park, Manyara Region, Northern Zone, Tanzania",
+    "country": "Tanzania"
+  },
+  "manyara national park|tz": {
+    "lat": -4.1248477,
+    "lng": 36.0856778,
+    "displayName": "Tarangire National Park, Manyara Region, Northern Zone, Tanzania",
+    "country": "Tanzania"
+  },
+  "lake manyara|tz": {
+    "lat": -3.6222096,
+    "lng": 35.8064883,
+    "displayName": "Lake Manyara, Babati, Manyara Region, Northern Zone, Tanzania",
+    "country": "Tanzania"
+  },
+  "in windsor|gb": {
+    "lat": 52.404722,
+    "lng": -2.0141058,
+    "displayName": "Windsor Close, New Frankley in Birmingham, Frankley, Birmingham, West Midlands, England, B45 0DA, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "princes street|gb,ie": {
+    "lat": 55.9509106,
+    "lng": -3.2026911,
+    "displayName": "Princes Street, Abbeyhill, Old Town, City of Edinburgh, Scotland, EH2 3DW, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "hué|kh,la,th,vn": {
+    "lat": 16.4639321,
+    "lng": 107.5863388,
+    "displayName": "Huế, Vietnam",
+    "country": "Vietnam"
+  },
+  "kala patthar|np": {
+    "lat": 27.9958,
+    "lng": 86.8284407,
+    "displayName": "Kala Patthar, Khumbupasanglahmu, Solukhumbu, Koshi Province, Nepal",
+    "country": "Nepal"
+  },
+  "himalayas|np": {
+    "lat": 27.985688,
+    "lng": 86.9163367,
+    "displayName": "Himalayas, Khumbupasanglahmu, Solukhumbu, Koshi Province, Nepal",
+    "country": "Nepal"
+  },
+  "namche|np": {
+    "lat": 27.8041662,
+    "lng": 86.7097956,
+    "displayName": "Namche Bazaar, Khumbupasanglahmu, Solukhumbu, Koshi Province, 56002, Nepal",
+    "country": "Nepal"
+  },
+  "gorakshep|np": {
+    "lat": 27.980675,
+    "lng": 86.828926,
+    "displayName": "Gorak Shep, Khumbupasanglahmu-04, Khumbupasanglahmu, Solukhumbu, Koshi Province, Nepal",
+    "country": "Nepal"
+  },
+  "hike|np": {
+    "lat": 27.5118367,
+    "lng": 85.4922849,
+    "displayName": "Waterfall to begin hike, Bethanchok-03, Bethanchok, Kavrepalanchok, Bagamati Province, 45206, Nepal",
+    "country": "Nepal"
+  },
+  "boumalne|ma": {
+    "lat": 31.372661,
+    "lng": -5.986644,
+    "displayName": "Boumalne Dades, Pachalik de Boumalne Dades, Tinghir Province, Drâa-Tafilalet, Morocco",
+    "country": "Morocco"
+  },
+  "erg chebbi|ma": {
+    "lat": 31.1382361,
+    "lng": -3.9707751,
+    "displayName": "Erg Chebbi, Cercle d'Er-Rissani, Errachidia Province, Drâa-Tafilalet, Morocco",
+    "country": "Morocco"
+  },
+  "draa valley|ma": {
+    "lat": 30.676589,
+    "lng": -6.291078,
+    "displayName": "The valley road, Ksar igharghar, Targa et Mal, Afra, caïdat de Tamezmoute, Cercle d'Agdz, Zagora Province, Drâa-Tafilalet, Morocco",
+    "country": "Morocco"
+  },
+  "paracas|pe": {
+    "lat": -13.834104,
+    "lng": -76.2488648,
+    "displayName": "Paracas, Province of Pisco, Ica, 11550, Peru",
+    "country": "Peru"
+  },
+  "ica|pe": {
+    "lat": -14.3325,
+    "lng": -75.499722,
+    "displayName": "Ica, Peru",
+    "country": "Peru"
+  },
+  "krong siem reap|kh,la,th,vn": {
+    "lat": 13.340105,
+    "lng": 103.8728602,
+    "displayName": "Krovat Krong Road, Siem Reap, 171204, Cambodia",
+    "country": "Cambodia"
+  },
+  "chiang mai|kh,la,th,vn": {
+    "lat": 18.7882778,
+    "lng": 98.9858802,
+    "displayName": "Chiang Mai City Municipality, Fa Ham, Mueang Chiang Mai District, Chiang Mai Province, Thailand",
+    "country": "Thailand"
+  },
+  "kings|kh,la,th,vn": {
+    "lat": 18.7902299,
+    "lng": 98.9873524,
+    "displayName": "Three Kings Monument, Three Kings Monument Square, แขวงศรีวิชัย, ตำบลศรีภูมิ, Chiang Mai City Municipality, Fa Ham, Mueang Chiang Mai District, Chiang Mai Province, 55520, Thailand",
+    "country": "Thailand"
+  },
+  "halong bay|kh,th,vn": {
+    "lat": 20.9084384,
+    "lng": 107.0682782,
+    "displayName": "Hạ Long Bay, Quang Ninh City, Vietnam",
+    "country": "Vietnam"
+  },
+  "hạ long bay|kh,la,th,vn": {
+    "lat": 20.9084384,
+    "lng": 107.0682782,
+    "displayName": "Hạ Long Bay, Quang Ninh City, Vietnam",
+    "country": "Vietnam"
+  },
+  "hội an|kh,la,th,vn": {
+    "lat": 15.8880397,
+    "lng": 108.3367883,
+    "displayName": "Hội An, Đà Nẵng, Hòn Cụ, Vietnam",
+    "country": "Vietnam"
+  },
+  "vietnamese|": {
+    "lat": 15.0000001,
+    "lng": 114.9999999,
+    "displayName": "South China Sea",
+    "country": null
+  },
+  "asia|": {
+    "lat": 51.2086975,
+    "lng": 89.2343748,
+    "displayName": "Asia",
+    "country": null
+  },
+  "english|": {
+    "lat": 49.9892202,
+    "lng": -2.2384698,
+    "displayName": "English Channel",
+    "country": null
+  },
+  "see|": {
+    "lat": 35.0000035,
+    "lng": 19.9999957,
+    "displayName": "Mediterranean Sea",
+    "country": null
+  },
+  "kampong khleang|gb,kh,th,vn": {
+    "lat": 13.1063878,
+    "lng": 104.1263131,
+    "displayName": "Kampong Khleang, Soutr Nikom, Siem Reap, Cambodia",
+    "country": "Cambodia"
+  },
+  "united kingdom|gb,kh,th,vn": {
+    "lat": 54.7023545,
+    "lng": -3.2765753,
+    "displayName": "United Kingdom",
+    "country": "United Kingdom"
+  },
+  "vietnamese|kh,th,vn": {
+    "lat": 21.02414,
+    "lng": 105.8597599,
+    "displayName": "National Museum of Vietnamese History, 1, Trang Tien Street, Hoan Kiem Ward, Hà Nội, 11024, Vietnam",
+    "country": "Vietnam"
+  },
+  "lazy beach|kh,th,vn": {
+    "lat": 10.5663745,
+    "lng": 103.3045286,
+    "displayName": "Lazy Beach, Koh Rong, Khaet Preah Sihanouk, Cambodia",
+    "country": "Cambodia"
+  },
+  "karnak temple|eg,jo": {
+    "lat": 25.7204345,
+    "lng": 32.6541346,
+    "displayName": "Karnak Temple Square, Old Karnak, Luxor, 81693, Egypt",
+    "country": "Egypt"
+  },
+  "kom ombo temple|eg,jo": {
+    "lat": 24.452073,
+    "lng": 32.9284135,
+    "displayName": "Temple of Kom Ombo, Grande Cour, Koum Ombo City, Aswan, 81611, Egypt",
+    "country": "Egypt"
+  },
+  "ajloun castle|eg,jo": {
+    "lat": 32.3252401,
+    "lng": 35.7273426,
+    "displayName": "Ajlun Castle, 20, Kufranjah, Ajloun Sub-District, Ajloun Qasabah District, Ajlun, Jordan",
+    "country": "Jordan"
+  },
+  "middle-east|eg,jo": {
+    "lat": 30.3696875,
+    "lng": 31.1728899,
+    "displayName": "Teraa Middle East Road, Tukh, Al Qalyubiya, 13868, Egypt",
+    "country": "Egypt"
+  },
+  "jordanian|eg,jo": {
+    "lat": 30.0170212,
+    "lng": 31.4147888,
+    "displayName": "Jordanian Embassy Land, El Showeifat District, Cairo, Egypt",
+    "country": "Egypt"
+  },
+  "jordan river|eg,jo": {
+    "lat": 32.4010093,
+    "lng": 35.5607928,
+    "displayName": "River Jordan, Irbid, Jordan",
+    "country": "Jordan"
+  },
+  "lawrence|eg,jo": {
+    "lat": 32.031235,
+    "lng": 35.890674,
+    "displayName": "Lawrence Hilmi Abu Swailem Street, Um Zeweitina, شفا بدران, Al-Jubaiha, Al-Jami'ah Sub-District, Al-Jami'ah District, Amman, 11282, Jordan",
+    "country": "Jordan"
+  },
+  "nubian|eg,jo": {
+    "lat": 24.0794855,
+    "lng": 32.8891534,
+    "displayName": "Nubian Museum, Al Fanadq Street, Nagaa Al Mahata, Aswan, 81529, Egypt",
+    "country": "Egypt"
+  },
+  "egyptian museum|eg,jo": {
+    "lat": 30.0479664,
+    "lng": 31.2336093,
+    "displayName": "Egyptian Museum, Merit Pasha Street, Al Ismalia, Bab al Luq, Cairo, 11556, Egypt",
+    "country": "Egypt"
+  },
+  "egyptian|eg,il,jo,ps": {
+    "lat": 30.0479664,
+    "lng": 31.2336093,
+    "displayName": "Egyptian Museum, Merit Pasha Street, Al Ismalia, Bab al Luq, Cairo, 11556, Egypt",
+    "country": "Egypt"
+  },
+  "philae temple|eg,il,jo,ps": {
+    "lat": 24.0252548,
+    "lng": 32.8841893,
+    "displayName": "Philae Temple, 25, Shash Village, Aswan, 81531, Egypt",
+    "country": "Egypt"
+  },
+  "shibuya|jp": {
+    "lat": 35.6637109,
+    "lng": 139.6976941,
+    "displayName": "Shibuya, Tokyo, Japan",
+    "country": "Japan"
+  },
+  "higashi|jp": {
+    "lat": 26.6333461,
+    "lng": 128.156759,
+    "displayName": "Higashi, Kunigami, Okinawa Prefecture, Japan",
+    "country": "Japan"
+  },
+  "sake|jp": {
+    "lat": 34.9288793,
+    "lng": 135.7616285,
+    "displayName": "Gekkeikan Okura Sake Museum, Minamihama street, Motozaimokucho, Fushimi Ward, Kyoto, Kyoto Prefecture, 612-8046, Japan",
+    "country": "Japan"
+  },
+  "imperial palace plaza|jp": {
+    "lat": 35.6820919,
+    "lng": 139.7540794,
+    "displayName": "Palace Square, Imperial Palace, Chiyoda, Tokyo, 100-0001, Japan",
+    "country": "Japan"
+  },
+  "mt. fuji|jp": {
+    "lat": 35.3628384,
+    "lng": 138.7307677,
+    "displayName": "Mount Fuji, Oyama, Sunto County, Shizuoka Prefecture, Japan",
+    "country": "Japan"
+  },
+  "shinkyo bridge|jp": {
+    "lat": 36.7533178,
+    "lng": 139.6040375,
+    "displayName": "Shinkyo Bridge, Japan Romantic Highway, 上鉢石町, Nikkō, Tochigi Prefecture, 321-1401, Japan",
+    "country": "Japan"
+  },
+  "peace memorial park|jp": {
+    "lat": 34.3931714,
+    "lng": 132.4523008,
+    "displayName": "Hiroshima Peace Memorial Park, Naka Ward, Hiroshima, Hiroshima Prefecture, 730-0811, Japan",
+    "country": "Japan"
+  },
+  "osaka itami airport|jp": {
+    "lat": 34.7839847,
+    "lng": 135.4390407,
+    "displayName": "Osaka Itami Airport, Toyonaka, Itami, Hyogo Prefecture, 664-0842, Japan",
+    "country": "Japan"
+  },
+  "iceland|is": {
+    "lat": 64.9841821,
+    "lng": -18.1059013,
+    "displayName": "Iceland",
+    "country": "Iceland"
+  },
+  "icelandic|is": {
+    "lat": 64.1484683,
+    "lng": -21.9357603,
+    "displayName": "The Icelandic Phallological Museum, 2, Geirsgata, Miðbær, Miðborg, Reykjavik, Capital Region, 101, Iceland",
+    "country": "Iceland"
+  },
+  "thingvellir|is": {
+    "lat": 64.2786082,
+    "lng": -21.0819412,
+    "displayName": "Þingvellir National Park, Bláskógabyggð, Southern Region, Iceland",
+    "country": "Iceland"
+  },
+  "geysir|is": {
+    "lat": 64.3138382,
+    "lng": -20.2995104,
+    "displayName": "Geysir, Haukadalsvegur, Bláskógabyggð, Southern Region, Iceland",
+    "country": "Iceland"
+  },
+  "reykjanes peninsula|is": {
+    "lat": 63.9415014,
+    "lng": -22.255951,
+    "displayName": "Reykjanesskagi, Iceland",
+    "country": "Iceland"
+  },
+  "keflavík airport|is": {
+    "lat": 63.9950427,
+    "lng": -22.6238642,
+    "displayName": "Keflavik Airport, 1A, Kjóavöllur, Suðurnesjabær, Southern Peninsula, 235, Iceland",
+    "country": "Iceland"
+  },
+  "keflavík international airport|is": {
+    "lat": 63.9850119,
+    "lng": -22.6266959,
+    "displayName": "Keflavík International Airport, Suðurnesjabær, Southern Peninsula, 235, Iceland",
+    "country": "Iceland"
+  },
+  "moshi|tz": {
+    "lat": -3.3486456,
+    "lng": 37.3435249,
+    "displayName": "Moshi, Moshi Urban, Kilimanjaro, Northern Zone, 25107, Tanzania",
+    "country": "Tanzania"
+  },
+  "serengeti national park's|tz": {
+    "lat": -1.8670109,
+    "lng": 35.2298165,
+    "displayName": "New Kleins Gate - Serengeti National Park, Sedeco, Serengeti, Mara Region, Lake Zone, Tanzania",
+    "country": "Tanzania"
+  },
+  "serengeti's|tz": {
+    "lat": -1.7192171,
+    "lng": 34.6009285,
+    "displayName": "s, Rung'abure, Serengeti, Mara Region, Lake Zone, Tanzania",
+    "country": "Tanzania"
+  },
+  "leeds|gb,ie": {
+    "lat": 53.7974185,
+    "lng": -1.5437941,
+    "displayName": "Leeds, West Yorkshire, England, LS1 6AL, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "ludlow|gb,ie": {
+    "lat": 52.3679896,
+    "lng": -2.7193114,
+    "displayName": "Ludlow, Shropshire, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "widcombe|gb,ie": {
+    "lat": 51.3764627,
+    "lng": -2.353159,
+    "displayName": "Widcombe, Bath, Bath and North East Somerset, West of England, England, BA2 4JR, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "plymouth|gb,ie": {
+    "lat": 50.3714122,
+    "lng": -4.1424451,
+    "displayName": "Plymouth, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "get|gb,ie": {
+    "lat": 53.0038504,
+    "lng": -1.249044,
+    "displayName": "Get A Better Car, Greasley, Watnall, Broxtowe, Nottinghamshire, East Midlands, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "guinness storehouse|gb,ie": {
+    "lat": 53.3419328,
+    "lng": -6.2867297,
+    "displayName": "Guinness Storehouse, Market Street South, Guinness Brewery, Ushers C Ward 1986, Dublin, County Dublin, Leinster, Ireland",
+    "country": "Ireland"
+  },
+  "devonshire coast|gb,ie": {
+    "lat": 51.0027318,
+    "lng": -4.4671625,
+    "displayName": "North Devon Coast National Landscape, Torridge District, Devon, Devon and Torbay, England, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "appin|gb": {
+    "lat": 56.5617885,
+    "lng": -5.3584857,
+    "displayName": "Appin, Argyll and Bute, Scotland, PA38 4DB, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "kyle of lochalsh|gb,ie": {
+    "lat": 57.2814192,
+    "lng": -5.7150685,
+    "displayName": "Kyle of Lochalsh, Highland, Scotland, IV40 8AE, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "wildlife|pe": {
+    "lat": -12.2120004,
+    "lng": -76.9894178,
+    "displayName": "Los Pantanos de Villa Wildlife Refuge, Chorrillos, Province of Lima, Lima Metropolitan Area, Lima, Peru",
+    "country": "Peru"
+  },
+  "take|kh,th,vn": {
+    "lat": 16.4021483,
+    "lng": 102.7805271,
+    "displayName": "Klan Take Lao Na Di Village, Ban Sa-at, Ban Pet, Mueang Khon Kaen District, Khon Kaen Province, Thailand",
+    "country": "Thailand"
+  },
+  "moses|eg,jo": {
+    "lat": 28.5388088,
+    "lng": 33.9751845,
+    "displayName": "Mount Sinai, Saint Catherine, South Sinai, 46616, Egypt",
+    "country": "Egypt"
+  },
+  "stop|eg,il,jo,ps": {
+    "lat": 32.0591685,
+    "lng": 34.8314514,
+    "displayName": "Stop, Neve Yehoshua, Ramat Gan, Tel Aviv Subdistrict, Tel-Aviv District, 5225503, Israel",
+    "country": "Israel"
+  },
+  "myrdalsjokull|is": {
+    "lat": 63.66178,
+    "lng": -19.1224574,
+    "displayName": "Mýrdalsjökull, Skaftárhreppur, Southern Region, Iceland",
+    "country": "Iceland"
+  },
+  "highland|gb": {
+    "lat": 57.5066357,
+    "lng": -5.0038367,
+    "displayName": "Highland, Scotland, United Kingdom",
+    "country": "United Kingdom"
+  },
+  "everest base camp nepal|np": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00005000152590214416)"
+  },
+  "orsho|np": {
+    "failed": true,
+    "reason": "low-quality match (category: tourism/guest_house)"
+  },
+  "duration|np": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "kenjuma|np": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "everest base camp|np": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00005000152590214416)"
+  },
+  "everest base|np": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00005000152590214416)"
+  },
+  "tinjdad oasis|ma": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "jeep safari|ma": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "sahara desert|ma": {
+    "failed": true,
+    "reason": "low-quality match (category: tourism/hotel)"
+  },
+  "ends|pe": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "nazca lines|pe": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00003750133516437045)"
+  },
+  "incan|pe": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "uncover|pe": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "coastal paracas|pe": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "london|pe": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/cafe)"
+  },
+  "basilica cathedral|pe": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/place_of_worship)"
+  },
+  "saigon heritage|kh,la,th,vn": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.000040000762951049326)"
+  },
+  "siem reap's archaeological treasures|kh,la,th,vn": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "learn|kh,la,th,vn": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/training)"
+  },
+  "culturally rich hill tribes|kh,la,th,vn": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "reclining buddha|kh,la,th,vn": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.0000583131151292747)"
+  },
+  "bangkok's klongs|kh,la,th,vn": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "journey home|kh,la,th,vn": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/cafe)"
+  },
+  "halong bay cruise|kh,th,vn": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "magnificent halong bay|kh,la,th,vn": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "wake up with|kh,la,th,vn": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "fishing like|kh,la,th,vn": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "mighty mekong delta|kh,la,th,vn": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "discover|kh,la,th,vn": {
+    "failed": true,
+    "reason": "low-quality match (category: shop/gift)"
+  },
+  "magnificent ancient|kh,la,th,vn": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "cherish|kh,la,th,vn": {
+    "failed": true,
+    "reason": "low-quality match (category: tourism/guest_house)"
+  },
+  "vietnam|kh": {
+    "lat": 11.5586996,
+    "lng": 104.9327718,
+    "displayName": "Cambodia-Vietnam Friendship Monument, Samdech Sothearos Boulevard (Street 3), Sangkat Chey Chumneah, Khan Daun Penh, Phnom Penh, 120208, Cambodia",
+    "country": "Cambodia"
+  },
+  "hanoi|kh": {
+    "lat": 11.6313727,
+    "lng": 104.8556441,
+    "displayName": "Hanoi Street (Street 1019), Phum Anlong Kngan, Sangkat Khmuonh, Khan Sen Sok, Phnom Penh, 120803, Cambodia",
+    "country": "Cambodia"
+  },
+  "hoa lu tam coc|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "hoa lư district|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "hanoi old quarter|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "hoa lu|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "le|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "dinh dynasties|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "tam coc|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "pm pm|kh": {
+    "failed": true,
+    "reason": "low-quality match (category: shop/supermarket)"
+  },
+  "tam coc bich dong|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "dive|kh": {
+    "lat": 10.5648548,
+    "lng": 103.3211041,
+    "displayName": "New Dive Shop Street, Koh Rong, Khaet Preah Sihanouk, Cambodia",
+    "country": "Cambodia"
+  },
+  "cruise|kh": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00004562829022655097)"
+  },
+  "hạ long bay|kh": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00003750133516437045)"
+  },
+  "have|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "english-speaking|kh": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00004286793316543858)"
+  },
+  "halong bay|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "red river delta|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "experience|kh": {
+    "failed": true,
+    "reason": "low-quality match (category: office/travel_agent)"
+  },
+  "in|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "spend|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "sharing cruise|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "ho chi minh city|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "cu chi tunnel|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "mekong river delta|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "cu chi tunnels|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "viet cong|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "vietnam war|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "my tho|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "mekong delta|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "cruising|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "dragon unicorn|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "phoenix|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "tortoise|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "siem reap|kh": {
+    "lat": 13.3617562,
+    "lng": 103.8590321,
+    "displayName": "Siem Reap, 123456, Cambodia",
+    "country": "Cambodia"
+  },
+  "magnificent angkor temples|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "angkor wat|kh": {
+    "lat": 13.412521,
+    "lng": 103.8665896,
+    "displayName": "Angkor Wat, Temporary access, Siem Reap, 171253, Cambodia",
+    "country": "Cambodia"
+  },
+  "local life|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "west baray|kh": {
+    "lat": 13.4344052,
+    "lng": 103.7815861,
+    "displayName": "West Baray, Siem Reap, Cambodia",
+    "country": "Cambodia"
+  },
+  "bangkok|kh": {
+    "lat": 14.0608055,
+    "lng": 104.252505,
+    "displayName": "Asia/Bangkok timezone, Cambodia",
+    "country": "Cambodia"
+  },
+  "city|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "wat traimit withayaram worawihan (golden buddha)|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "am meet|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "let's|kh": {
+    "failed": true,
+    "reason": "low-quality match (category: shop/coffee)"
+  },
+  "railway track market rom hoop market|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "siang tai market|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "mae klong|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "proceed|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "damnen saduak floating market|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "floating market|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "foods|kh": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/restaurant)"
+  },
+  "easy|kh": {
+    "failed": true,
+    "reason": "low-quality match (category: tourism/hostel)"
+  },
+  "chiang mai extension|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "chiang mai|kh": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/restaurant)"
+  },
+  "kuangsi waterfall|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "wat xiengthong|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "an|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "alms|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "laos|kh": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/restaurant)"
+  },
+  "buddhist|kh": {
+    "lat": 10.5942835,
+    "lng": 103.5444005,
+    "displayName": "Phum Khmer Dey Meas Buddhist Sanctuary, Quarter 3, Sihanoukville, Preah Sihanouk, Khaet Preah Sihanouk, Cambodia",
+    "country": "Cambodia"
+  },
+  "luang prabang|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "it|kh": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00006794613565265915)"
+  },
+  "prestigo|kh": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "halong bay cruise|kh,la,th,vn": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "river kwai|gb,kh,th,vn": {
+    "failed": true,
+    "reason": "low-quality match (category: shop/massage)"
+  },
+  "kok sangke|gb,kh,th,vn": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "you'll|gb,kh,th,vn": {
+    "failed": true,
+    "reason": "low-quality match (category: shop/car_repair)"
+  },
+  "south east|gb,kh,th,vn": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "old saigon|kh,th,vn": {
+    "failed": true,
+    "reason": "low-quality match (category: tourism/hostel)"
+  },
+  "secret weapons bunker|kh,th,vn": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "cu chi tunnels enjoy|kh,th,vn": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "koh rong sanloem|kh,th,vn": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/ferry_terminal)"
+  },
+  "central market|kh,th,vn": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/marketplace)"
+  },
+  "central market (phsar thmey)|kh,th,vn": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00006794613565265915)"
+  },
+  "ferry|kh,th,vn": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.000040000762951049326)"
+  },
+  "phnom penh take|kh,th,vn": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "central market phsar thmey|kh,th,vn": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00006794613565265915)"
+  },
+  "hero rat museum|kh,th,vn": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "angkor archaeological park|kh,th,vn": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "nile cruise|eg,jo": {
+    "failed": true,
+    "reason": "low-quality match (category: tourism/hotel)"
+  },
+  "dead sea|eg,jo": {
+    "failed": true,
+    "reason": "low-quality match (category: shop/butcher)"
+  },
+  "following|eg,jo": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "rose city|eg,jo": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00005869459067669211)"
+  },
+  "amphitheatre (theatre of petra)|eg,jo": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "jordan valley in madaba|eg,jo": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "holy land|eg,jo": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "experience|eg,jo": {
+    "failed": true,
+    "reason": "low-quality match (category: tourism/hotel)"
+  },
+  "board ship|eg,jo": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "sailing|eg,jo": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00006337300679021924)"
+  },
+  "ends|eg,jo": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "wild jordan centre|eg,jo": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "cookery class|eg,jo": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "petra kitchen|eg,jo": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/restaurant)"
+  },
+  "wadi mujib nature reserve|eg,jo": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "wadi rum keep|eg,jo": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "t e lawrence|eg,jo": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "arab revolt|eg,jo": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00005869459067669211)"
+  },
+  "museum|eg,jo": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.000051863126573541126)"
+  },
+  "museum|eg,il,jo,ps": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.000051863126573541126)"
+  },
+  "nile felucca|eg,il,jo,ps": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00006302967879754357)"
+  },
+  "nile spend|eg,il,jo,ps": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "animalia|eg,il,jo,ps": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00006302967879754357)"
+  },
+  "carter house|eg,il,jo,ps": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00006485465781638845)"
+  },
+  "end cairo|eg,il,jo,ps": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "fire ceremony|jp": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "crow castle|jp": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "zenkoji temple|jp": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/place_of_worship)"
+  },
+  "kenrokuen gardens|jp": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "kanazawa browse omicho market|jp": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "in kyoto|jp": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00007531471732657385)"
+  },
+  "nanzen-ji|jp": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/place_of_worship)"
+  },
+  "konnichiwa tokyo|jp": {
+    "failed": true,
+    "reason": "low-quality match (category: shop/supermarket)"
+  },
+  "five lakes district|jp": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "timeless takayama|jp": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "kanazawa dive into|jp": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "kyoto connect|jp": {
+    "failed": true,
+    "reason": "low-quality match (category: office/consulting)"
+  },
+  "discover|jp": {
+    "failed": true,
+    "reason": "low-quality match (category: tourism/hotel)"
+  },
+  "sayonara japan|jp": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "natural beauty|jp": {
+    "failed": true,
+    "reason": "low-quality match (category: shop/massage)"
+  },
+  "hot spring charm|jp": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "shibu onsen|jp": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00005187685969324815)"
+  },
+  "kiso valley|jp": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.000051586938277210915)"
+  },
+  "home|jp": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.0000672503242541698)"
+  },
+  "nishiki market|jp": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/marketplace)"
+  },
+  "admire ancient nara|jp": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "experience hiroshima|jp": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "hiroshima peace memorial (genbaku dome)|jp": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "sayonara osaka|jp": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "black beach|is": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/restaurant)"
+  },
+  "sólheimajökulll|is": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "threngli pass|is": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "river olufsa|is": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "golden circle|is": {
+    "failed": true,
+    "reason": "low-quality match (category: tourism/apartment)"
+  },
+  "return home|is": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "geysir geothermal area|is": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "golden circle you'll|is": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "thingvellir national park gullfoss|is": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "aurora hunting|is": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "höfði house|is": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00007186160067135145)"
+  },
+  "take|is": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "city|is": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "the lava tunnel (raufarhólshellir)|is": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "suggested|is": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "snæfellsnes peninsula whale-watching lava tunnel|is": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "aurora reykjavík|is": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.000040000762951049326)"
+  },
+  "farewell reykjavík|is": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "snæfellsnes peninsula|is": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "farewell iceland|is": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "farewell|is": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "picnic|tz": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.000040000762951049326)"
+  },
+  "driving|tz": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/driving_school)"
+  },
+  "central serengeti|tz": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/bar)"
+  },
+  "eastern serengeti|tz": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "naabi hill gate|tz": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "east of the grumeti river and naabi river|tz": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "naabi river|tz": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "enjoy|tz": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "wildebeest|tz": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00003096284428163604)"
+  },
+  "in london|gb,ie": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/place_of_worship)"
+  },
+  "london oxford stratford-upon-avon leeds|gb,ie": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "strathpeffer fort augustus fort william-glasgow|gb,ie": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "liverpool north wales|gb,ie": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "liverpool ludlow cardiff|gb,ie": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "england glastonbury widecombe plymouth|gb,ie": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "plymouth stonehenge london|gb,ie": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "feel|gb": {
+    "failed": true,
+    "reason": "low-quality match (category: shop/hairdresser)"
+  },
+  "begins|gb,ie": {
+    "failed": true,
+    "reason": "low-quality match (category: shop/charity)"
+  },
+  "ashford castle|gb,ie": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.00006325246051723533)"
+  },
+  "homeward bound|gb": {
+    "failed": true,
+    "reason": "low-quality match (category: shop/interior_decoration)"
+  },
+  "in london|gb": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/place_of_worship)"
+  },
+  "liverpool north wales|gb": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "indulge|gb,ie": {
+    "failed": true,
+    "reason": "low-quality match (category: shop/beauty)"
+  },
+  "black stuff'|gb,ie": {
+    "failed": true,
+    "reason": "low-quality match (category: shop/clothes)"
+  },
+  "hogwarts|gb": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/fountain)"
+  },
+  "returning|gb": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.000049804684519676774)"
+  },
+  "waverley station|gb": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/cafe)"
+  },
+  "savour|gb": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/cafe)"
+  },
+  "pierhouse|gb": {
+    "failed": true,
+    "reason": "low-quality match (category: amenity/restaurant)"
+  },
+  "harry potter' rail bridge|gb,ie": {
+    "failed": true,
+    "reason": "no results"
+  },
+  "eilean donan castle viewpoint|gb": {
+    "failed": true,
+    "reason": "low-quality match (importance 0.0000514923323414514)"
+  },
+  "route north|gb": {
+    "failed": true,
+    "reason": "no results"
+  }
+}

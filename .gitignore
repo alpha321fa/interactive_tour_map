@@ -1,0 +1,5 @@
+node_modules/
+dist/
+pipeline/data/raw-html/
+.DS_Store
+*.log
