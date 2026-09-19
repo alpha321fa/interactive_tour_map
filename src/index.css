@@ -86,6 +86,39 @@ body {
   white-space: nowrap;
 }
 
+/* --- Day-pin image popup --- */
+
+.day-popup .leaflet-popup-content-wrapper {
+  border-radius: 8px;
+  padding: 0;
+  overflow: hidden;
+}
+
+.day-popup .leaflet-popup-content {
+  margin: 0;
+  width: auto !important;
+}
+
+.day-popup__image {
+  display: block;
+  width: 220px;
+  height: 140px;
+  object-fit: cover;
+}
+
+.day-popup__credit {
+  display: block;
+  padding: 4px 8px;
+  font-size: 11px;
+  color: #6b6558;
+  text-align: right;
+  text-decoration: none;
+}
+
+.day-popup__credit:hover {
+  text-decoration: underline;
+}
+
 .marker-cluster {
   background: rgba(47, 111, 111, 0.25);
 }
@@ -157,6 +190,17 @@ body {
 .side-panel__day {
   border-top: 1px solid var(--color-border);
   padding-top: 12px;
+  scroll-margin-block: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.side-panel__day--active {
+  background-color: rgba(224, 112, 63, 0.1);
+  border-radius: 6px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-left: -8px;
+  margin-right: -8px;
 }
 
 .side-panel__day-heading {
@@ -235,6 +279,73 @@ body {
 
 .home-button:hover {
   background: #fff8f2;
+}
+
+.search-bar {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  z-index: 900;
+  width: 280px;
+}
+
+.search-bar__input {
+  width: 100%;
+  background: #fff;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  padding: 10px 16px;
+  font-size: 14px;
+  font-family: inherit;
+  color: var(--color-ink);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+}
+
+.search-bar__input:focus {
+  outline: none;
+  border-color: var(--color-teal);
+}
+
+.search-bar__results {
+  list-style: none;
+  margin: 8px 0 0;
+  padding: 6px;
+  background: #fff;
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
+  max-height: 360px;
+  overflow-y: auto;
+}
+
+.search-bar__result {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 10px;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.search-bar__result--active {
+  background: rgba(47, 111, 111, 0.1);
+}
+
+.search-bar__result-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--color-ink);
+}
+
+.search-bar__result-meta {
+  font-size: 11px;
+  color: #6b6558;
+  margin-top: 2px;
 }
 
 .status-banner {

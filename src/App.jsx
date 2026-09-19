@@ -1,10 +1,11 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Routes, Route, useNavigate, useParams } from "react-router-dom";
 import { useTours } from "./hooks/useTours.js";
 import MapView from "./components/MapView.jsx";
 import TourSidePanel from "./components/TourSidePanel.jsx";
 import SurpriseMeButton from "./components/SurpriseMeButton.jsx";
 import HomeButton from "./components/HomeButton.jsx";
+import SearchBar from "./components/SearchBar.jsx";
 
 function MapPage() {
   const { id } = useParams();
@@ -18,6 +19,12 @@ function MapPage() {
   // fly on its own, or panning would fight the user's own drag — see
   // FlyToBounds's comment on why fallbackCenter isn't in its deps).
   const [resetSignal, setResetSignal] = useState(0);
+  // Which day(s) a clicked pin corresponds to (a merged pin can span several
+  // day numbers), so the side panel can scroll to and highlight them. Reset
+  // whenever the focused tour changes so a stale highlight doesn't survive
+  // into a different tour's day list.
+  const [activeDayNumbers, setActiveDayNumbers] = useState(null);
+  useEffect(() => setActiveDayNumbers(null), [id]);
 
   const focusedTour = id ? tours.find((t) => t.id === id) ?? null : null;
 
@@ -36,12 +43,18 @@ function MapPage() {
         overviewView={overviewView}
         onOverviewViewChange={setOverviewView}
         resetSignal={resetSignal}
+        onDayClick={setActiveDayNumbers}
       />
 
-      {focusedTour && <TourSidePanel tour={focusedTour} onClose={() => navigate("/")} />}
+      {focusedTour && (
+        <TourSidePanel tour={focusedTour} onClose={() => navigate("/")} activeDayNumbers={activeDayNumbers} />
+      )}
 
       {!focusedTour && !loading && (
-        <SurpriseMeButton tours={tours} onPick={(tourId) => navigate(`/tour/${tourId}`)} />
+        <>
+          <SurpriseMeButton tours={tours} onPick={(tourId) => navigate(`/tour/${tourId}`)} />
+          <SearchBar tours={tours} onSelect={(tourId) => navigate(`/tour/${tourId}`)} />
+        </>
       )}
 
       <HomeButton onClick={goHome} />

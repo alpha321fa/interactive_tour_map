@@ -70,6 +70,11 @@ function parsePrice(tripNode) {
   return { amount, currency: offer.priceCurrency ?? null };
 }
 
+function extractOgImage($) {
+  const content = $('meta[property="og:image"]').attr("content");
+  return content ? content.trim() : null;
+}
+
 function parseItineraryPlaces(tripNode) {
   const itinerary = Array.isArray(tripNode.itinerary) ? tripNode.itinerary : [];
   return itinerary
@@ -145,6 +150,14 @@ function parseItineraryDays(html, $) {
 
     for (const candidate of extractProseCandidates(description)) addCandidate(candidate);
 
+    // Some operators' itinerary blocks include a photo carousel (real
+    // location photos, not stock/marketing images) — take the first slide
+    // as this day's illustrative image, when present.
+    const imgEl = $(el).find(".tour__itinerary-item-content-images img").first();
+    const image = imgEl.length
+      ? { url: imgEl.attr("src"), alt: imgEl.attr("alt")?.trim() || null }
+      : null;
+
     const previous = days[days.length - 1];
     const isExactRepeat =
       previous && previous.dayNumber === dayNumber && previous.title === titleRaw && previous.description === description;
@@ -155,6 +168,7 @@ function parseItineraryDays(html, $) {
       title: titleRaw,
       description,
       rawLocationCandidates: candidates,
+      image,
     });
   });
   days.sort((a, b) => a.dayNumber - b.dayNumber);
@@ -183,6 +197,7 @@ export function parseTourPage(html, { url, region, id }) {
     region,
     sourceUrl: url,
     shortDescription: tripNode.description ?? null,
+    image: extractOgImage($),
     price: parsePrice(tripNode),
     durationDays: parseDurationDays(tripNode) ?? days.length,
     acceptableCountries: deriveAcceptableCountries(itineraryPlaceNames),

@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { geocode, NominatimBlockedError } from "./lib/nominatim.js";
+import { getLocationImage } from "./lib/wikimedia.js";
 import { REGION_COUNTRY_ALIASES } from "./lib/regionCountries.js";
 import { KNOWN_COUNTRY_NAMES } from "./lib/countryCodes.js";
 
@@ -31,63 +32,82 @@ async function geocodeTour(tour, stats) {
   let lastResolvedLocation = null;
   for (const day of tour.days) {
     const candidates = day.rawLocationCandidates ?? [];
+    let location;
+
     if (!candidates.length) {
       // No place-name signal at all for this day (title/structured span/prose
       // all came up empty) — most often a day that continues at the same
       // place as the previous one, so carry that location forward rather
       // than leaving a gap in the route line.
-      days.push({
-        dayNumber: day.dayNumber,
-        title: day.title,
-        description: day.description,
-        location: lastResolvedLocation,
-      });
+      location = lastResolvedLocation;
       stats.daysSkippedNoCandidate++;
-      continue;
-    }
-
-    // Try each candidate in order (title first, then structured span, then
-    // prose-mentioned places) until one actually geocodes — the top-ranked
-    // candidate can genuinely name a real place that just has no single map
-    // point (e.g. "Golden Circle", a touring route, not a point), in which
-    // case a more specific place mentioned in the day's own description is
-    // still worth trying before giving up.
-    let resolved = null;
-    let countryLevelFallback = null;
-    let failureReasons = [];
-    for (const query of candidates) {
-      const result = await geocode(query, { acceptableCountries });
-      if (result.failed) {
-        failureReasons.push(`"${query}" — ${result.reason}`);
-        continue;
-      }
-      // A bare country name ("Iceland") geocodes "successfully" but to a
-      // near-useless whole-country centroid — keep trying other candidates
-      // for something more specific, only falling back to it if nothing
-      // better turns up anywhere in the list.
-      if (KNOWN_COUNTRY_NAMES.has(query.toLowerCase())) {
-        countryLevelFallback = countryLevelFallback ?? { name: query, lat: result.lat, lng: result.lng };
-        continue;
-      }
-      resolved = { name: query, lat: result.lat, lng: result.lng };
-      break;
-    }
-    resolved = resolved ?? countryLevelFallback;
-
-    if (!resolved) {
-      console.log(`  day ${day.dayNumber} (${tour.id}): FAILED ${failureReasons.join("; ")}`);
-      days.push({ dayNumber: day.dayNumber, title: day.title, description: day.description, location: null });
-      stats.daysFailed++;
     } else {
-      lastResolvedLocation = resolved;
-      days.push({
-        dayNumber: day.dayNumber,
-        title: day.title,
-        description: day.description,
-        location: resolved,
-      });
-      stats.daysResolved++;
+      // Try each candidate in order (title first, then structured span, then
+      // prose-mentioned places) until one actually geocodes — the top-ranked
+      // candidate can genuinely name a real place that just has no single map
+      // point (e.g. "Golden Circle", a touring route, not a point), in which
+      // case a more specific place mentioned in the day's own description is
+      // still worth trying before giving up.
+      let resolved = null;
+      let countryLevelFallback = null;
+      let failureReasons = [];
+      for (const query of candidates) {
+        const result = await geocode(query, { acceptableCountries });
+        if (result.failed) {
+          failureReasons.push(`"${query}" — ${result.reason}`);
+          continue;
+        }
+        // A bare country name ("Iceland") geocodes "successfully" but to a
+        // near-useless whole-country centroid — keep trying other candidates
+        // for something more specific, only falling back to it if nothing
+        // better turns up anywhere in the list. Flagged as `isCountryFallback`
+        // so the frontend can recognize this isn't a real visited place (e.g.
+        // a "Farewell Iceland" day with no specific stop) and leave it out of
+        // the plotted route/bounds, even when it's not a wild enough outlier
+        // for the distance-based filter to catch on its own.
+        if (KNOWN_COUNTRY_NAMES.has(query.toLowerCase())) {
+          countryLevelFallback = countryLevelFallback ?? {
+            name: query,
+            lat: result.lat,
+            lng: result.lng,
+            isCountryFallback: true,
+          };
+          continue;
+        }
+        resolved = { name: query, lat: result.lat, lng: result.lng };
+        break;
+      }
+      resolved = resolved ?? countryLevelFallback;
+
+      if (!resolved) {
+        console.log(`  day ${day.dayNumber} (${tour.id}): FAILED ${failureReasons.join("; ")}`);
+        stats.daysFailed++;
+      } else {
+        lastResolvedLocation = resolved;
+        stats.daysResolved++;
+      }
+      location = resolved;
     }
+
+    // Prefer tourhub's own scraped day photo; when a day has none but did
+    // resolve to a place, fall back to a real Wikipedia photo of that
+    // specific point rather than showing nothing or reusing the tour's one
+    // generic hero image for every pin.
+    let image = day.image ?? null;
+    if (!image && location) {
+      const fallback = await getLocationImage(location.lat, location.lng);
+      if (!fallback.failed) {
+        image = { url: fallback.url, alt: fallback.alt, pageUrl: fallback.pageUrl, source: "wikipedia" };
+      }
+    }
+
+    days.push({
+      dayNumber: day.dayNumber,
+      title: day.title,
+      description: day.description,
+      location,
+      image,
+    });
   }
 
   const centroid = computeCentroid(days);
@@ -100,6 +120,7 @@ async function geocodeTour(tour, stats) {
     sourceUrl: tour.sourceUrl,
     shortDescription: tour.shortDescription,
     vibe: tour.shortDescription,
+    image: tour.image ?? null,
     price: tour.price,
     durationDays: tour.durationDays,
     centroid,

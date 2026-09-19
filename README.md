@@ -15,6 +15,11 @@ description.
   back button.
 - **Surprise me**: jump to a random tour.
 - **Home**: reset the map to the world view from anywhere.
+- **Day photos**: click a day pin to see a photo of that specific place and
+  scroll the side panel to the matching entry — Tourhub's own itinerary photo
+  when one was scraped, otherwise a real Wikipedia photo of that exact
+  location (credited in-app), rather than no image or the tour's generic
+  cover photo.
 
 ## Running it
 
@@ -57,13 +62,18 @@ runtime:
    matches, and requiring the result to be in a country the tour actually
    visits). Results are cached to `pipeline/data/geocode-cache.json`
    (committed, so a fresh clone never needs to re-geocode), and the pipeline
-   respects Nominatim's ~1 request/second usage limit.
+   respects Nominatim's ~1 request/second usage limit. For any day that
+   resolves to a location but has no photo scraped from Tourhub's own
+   itinerary markup, this stage also looks up a real photo of that exact
+   point via Wikipedia's geosearch API (nearest geo-tagged article's page
+   image), cached to `pipeline/data/wikimedia-cache.json`.
 
-**Before running `npm run geocode`**, open `pipeline/lib/nominatim.js` and
-replace the placeholder contact email in `USER_AGENT` with your own — this
-is required by [Nominatim's usage
-policy](https://operations.osmfoundation.org/policies/nominatim/), not
-optional.
+**Before running `npm run geocode`**, open `pipeline/lib/nominatim.js` *and*
+`pipeline/lib/wikimedia.js` and replace the placeholder contact email in each
+file's `USER_AGENT` with your own — this is required by [Nominatim's usage
+policy](https://operations.osmfoundation.org/policies/nominatim/) and
+requested by [Wikimedia's API
+etiquette](https://meta.wikimedia.org/wiki/User-Agent_policy), not optional.
 
 Both scripts are safe to re-run: they only fetch/geocode what isn't already
 cached, so iterating on the parsing logic doesn't mean re-scraping or
@@ -78,7 +88,7 @@ re-geocoding everything from scratch.
 - **Server**: a small Express app that just serves the built frontend and
   the static `tours.json` — no dynamic API yet.
 - **Pipeline**: plain Node.js scripts (Cheerio for HTML parsing, Nominatim
-  for geocoding).
+  for geocoding, Wikipedia's API for fallback day photos).
 
 ## Data sourcing & attribution
 
@@ -86,6 +96,9 @@ re-geocoding everything from scratch.
   showcase project. `urls.txt` lists the source tours.
 - Map tiles: © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors.
 - Geocoding: © [Nominatim](https://nominatim.openstreetmap.org/) / OpenStreetMap contributors.
+- Fallback day photos (used when Tourhub's own itinerary page had none):
+  Wikipedia / Wikimedia Commons, credited with a link to the source article
+  directly on the photo popup.
 
 ## Known limitations
 

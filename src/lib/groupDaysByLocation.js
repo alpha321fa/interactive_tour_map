@@ -9,10 +9,13 @@ export function groupDaysByLocation(days) {
     if (!day.location) continue;
     const key = `${day.location.lat.toFixed(4)},${day.location.lng.toFixed(4)}`;
     if (indexByKey.has(key)) {
-      groups[indexByKey.get(key)].dayNumbers.push(day.dayNumber);
+      const group = groups[indexByKey.get(key)];
+      group.dayNumbers.push(day.dayNumber);
+      // First chronological day in the group that has a photo wins.
+      if (!group.image && day.image) group.image = day.image;
     } else {
       indexByKey.set(key, groups.length);
-      groups.push({ location: day.location, dayNumbers: [day.dayNumber] });
+      groups.push({ location: day.location, dayNumbers: [day.dayNumber], image: day.image ?? null });
     }
   }
 

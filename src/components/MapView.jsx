@@ -1,4 +1,4 @@
-import { MapContainer, TileLayer, Marker, Polyline, Tooltip, useMapEvents } from "react-leaflet";
+import { MapContainer, TileLayer, Marker, Polyline, Popup, Tooltip, useMapEvents } from "react-leaflet";
 import MarkerClusterGroup from "react-leaflet-cluster";
 import FlyToBounds from "./FlyToBounds.jsx";
 import { overviewIcon, dayIcon } from "../lib/mapIcons.js";
@@ -28,12 +28,20 @@ export default function MapView({
   overviewView,
   onOverviewViewChange,
   resetSignal,
+  onDayClick,
 }) {
-  // Drop days whose location is a wild geographic outlier relative to the
-  // rest of the tour (e.g. a "Depart/Arrive London" flight day on an
-  // otherwise Southeast-Asia-only itinerary) — real data, but plotting it
+  // Drop days with no specific place to plot — a whole-country geocode
+  // fallback (e.g. "Day 6: Farewell Iceland", which has no stop of its own
+  // and only resolves at all because "Iceland" is technically geocodable)
+  // isn't a real visited location, so it's left out of the map entirely
+  // (it still appears in the side panel like any other day) rather than
+  // plotted at a country centroid that can skew the view. Separately, drop
+  // days whose location is a wild geographic outlier relative to the rest
+  // of the tour (e.g. a "Depart/Arrive London" flight day on an otherwise
+  // Southeast-Asia-only itinerary) — real, specific data, but plotting it
   // would zoom the whole view out to fit two unrelated regions.
-  const resolvedDays = filterOutlierDays(focusedTour?.days.filter((d) => d.location) ?? []);
+  const specificDays = focusedTour?.days.filter((d) => d.location && !d.location.isCountryFallback) ?? [];
+  const resolvedDays = filterOutlierDays(specificDays);
   // The route line traces every (non-outlier) day in order, including
   // revisits to the same place, but pins are grouped by location so two
   // nights in one city show a single "1-2" pin instead of two stacked markers.
@@ -92,10 +100,31 @@ export default function MapView({
                 key={label}
                 position={[group.location.lat, group.location.lng]}
                 icon={dayIcon(label, { isFirst, isLast })}
+                eventHandlers={{ click: () => onDayClick?.(group.dayNumbers) }}
               >
                 <Tooltip direction="top" offset={[0, -12]}>
                   Day {label}: {group.location.name}
                 </Tooltip>
+                {group.image && (
+                  <Popup className="day-popup" offset={[0, -14]} closeButton={false}>
+                    <img
+                      src={group.image.url}
+                      alt={group.image.alt ?? group.location.name}
+                      className="day-popup__image"
+                      loading="lazy"
+                    />
+                    {group.image.source === "wikipedia" && (
+                      <a
+                        className="day-popup__credit"
+                        href={group.image.pageUrl}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        Photo: Wikipedia
+                      </a>
+                    )}
+                  </Popup>
+                )}
               </Marker>
             );
           })}
